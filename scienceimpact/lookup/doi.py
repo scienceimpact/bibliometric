@@ -4,7 +4,13 @@ DOI_BASE = "http://dx.doi.org/"
 
 def doi(doi_number, kind="bibtex"):
   """
-  Return a bibTeX entry as a string for a given DOI.
+  Return a doi entrty in various formats. Formats may include
+
+  * bibtex - returns a text string in bibtex format
+  * json - returns a json object
+  * turtle - returns a text string in xml turtle format
+
+  Most convenient is the json format
   """
 
   if kind in ['bibtex']:
