@@ -1,11 +1,11 @@
-from scienceimpact.lookup.doi import doi2bibtex
+from scienceimpact.lookup.doi import doi
 
 
-print doi2bibtex("10.1109/GCE.2010.5676126")
+print doi("10.1109/GCE.2010.5676126")
 
-print doi2bibtex("10.1109/GCE.2010.5676126", kind="json")
+print doi("10.1109/GCE.2010.5676126", kind="json")
 
-print doi2bibtex("10.1109/GCE.2010.5676126", kind="turle")
+print doi("10.1109/GCE.2010.5676126", kind="turle")
 
 
 
