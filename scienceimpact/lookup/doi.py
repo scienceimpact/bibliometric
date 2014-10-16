@@ -22,3 +22,8 @@ def doi2bibtex(doi, kind="bibtex"):
       return r.json()
   else:
       return r.text
+
+
+
+
+    
