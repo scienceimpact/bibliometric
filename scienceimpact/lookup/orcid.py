@@ -2,6 +2,9 @@ import requests
 import xmltodict
 import json
 
+# Other examples:
+# http://support.orcid.org/knowledgebase/articles/132354-searching-with-the-public-api
+
 DOI_BASE = "http://pub.orcid.org/v1.1/search/orcid-bio/?q=digital-object-ids:%"
 
 # curl -H "Accept: application/orcid+json" "10.1109/GCE.2010.5676126"
