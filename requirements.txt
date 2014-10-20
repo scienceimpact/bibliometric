@@ -1,3 +1,4 @@
 xmltodict
 orcid-python
 git+https://github.com/scholrly/dblp-python.git
+

@@ -14,7 +14,7 @@ def banner(msg):
     print msg
     print 70*"="    
 
-"""
+
 banner("crossref turtle")
 print doi_crossref("10.1109/GCE.2010.5676126", kind="turle")
 
@@ -23,15 +23,13 @@ print doi_crossref("10.1109/GCE.2010.5676126")
 
 banner("crossref json")
 pprint( doi_crossref("10.1109/GCE.2010.5676126", kind="json"))
-"""
 
-"""
 banner("ieee xml")
 print doi_ieee("10.1109/GCE.2010.5676126", kind="xml")
 
 banner("ieee xml")
 print doi_ieee("10.1109/GCE.2010.5676126", kind="json")
-"""
+
 
 banner("ieee orcid")
 print doi_orcid("10.1109/GCE.2010.5676126", kind="xml")
