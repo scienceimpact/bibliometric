@@ -6,10 +6,10 @@ Project to identify person based on publications and accociate them with various
 Team
 ========
 
-Gregor von Laszewski (laszewski@gamil.com)
-Fugang Wang (kevinwangfg@gmail.com)
-Siddhardha Raju Mandapati (siddhardha.rm@gmail.com)
-Amritanshu Joshi    (amritanshujoshi@gmail.com)
+* Gregor von Laszewski (laszewski@gamil.com)
+* Fugang Wang (kevinwangfg@gmail.com)
+* Siddhardha Raju Mandapati (siddhardha.rm@gmail.com)
+* Amritanshu Joshi    (amritanshujoshi@gmail.com)
 
 Acknowledgement
 =================
