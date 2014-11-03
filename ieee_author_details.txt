@@ -1,0 +1,1895 @@
+======================================================================
+ieee author details xml
+======================================================================
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<totalfound>37</totalfound>
+
+<totalsearched>3836819</totalsearched>
+
+<document>
+
+<rank>1</rank>
+
+<title><![CDATA[A Grid Certificate Authority for Community and Ad-Hoc Grids]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Sosonkin, M.]]></authors>
+
+<affiliations><![CDATA[Argonne Nat. Lab., IL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[authorisation]]></term>
+
+<term><![CDATA[certification]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[middleware]]></term>
+
+<term><![CDATA[object-oriented programming]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Authorization]]></term>
+
+<term><![CDATA[Computer vision]]></term>
+
+<term><![CDATA[Content addressable storage]]></term>
+
+<term><![CDATA[Cryptography]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Information security]]></term>
+
+<term><![CDATA[Physics computing]]></term>
+
+<term><![CDATA[Production]]></term>
+
+<term><![CDATA[Prototypes]]></term>
+
+<term><![CDATA[Scientific computing]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Parallel and Distributed Processing Symposium, 2005. Proceedings. 19th IEEE International]]></pubtitle>
+
+<punumber><![CDATA[9722]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2005]]></py>
+
+<spage><![CDATA[186a]]></spage>
+
+<epage><![CDATA[186a]]></epage>
+
+<abstract><![CDATA[One of the most important issues in Grid computing is to provide a secure environment that allows administrators to contribute their resources and users to utilize them. Currently diverse methods are required to obtain certificates for the different Grids. In this paper we showcase a prototype of a tool that simplifies the tasks associated with maintaining a Grid certificate authority and simplifies the application process for the user to interact with multiple certificate authorities.]]></abstract>
+
+<isbn><![CDATA[0-7695-2312-9]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1420071]]></arnumber>
+
+<doi><![CDATA[10.1109/IPDPS.2005.29]]></doi>
+
+<publicationId><![CDATA[1420071]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1420071&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1420071]]></pdf>
+
+</document>
+
+<document>
+
+<rank>2</rank>
+
+<title><![CDATA[Design of the FutureGrid experiment management framework]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Fox, G.C.;  Fugang Wang;  Younge, A.J.;  Kulshrestha, A.;  Pike, G.G.;  Smith, W.;  Vo&#x0308; ckler, J.;  Figueiredo, R.J.;  Fortes, J.;  Keahey, K.]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[cloud computing]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Clouds]]></term>
+
+<term><![CDATA[Communities]]></term>
+
+<term><![CDATA[Dynamic scheduling]]></term>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[Home appliances]]></term>
+
+<term><![CDATA[Middleware]]></term>
+
+<term><![CDATA[Software]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Gateway Computing Environments Workshop (GCE), 2010]]></pubtitle>
+
+<punumber><![CDATA[5668967]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[10]]></epage>
+
+<abstract><![CDATA[FutureGrid provides novel computing capabilities that enable reproducible experiments while simultaneously supporting dynamic provisioning. This paper describes the FutureGrid experiment management framework to create and execute large scale scientific experiments for researchers around the globe. The experiments executed are performed by the various users of FutureGrid ranging from administrators to software developers and end users. The Experiment management framework will consist of software tools that record user and system actions to generate a reproducible set of tasks and resource configurations. Additionally, the experiment management framework can be used to share not only the experiment setup, but also performance information for the specific instantiation of the experiment. This makes it possible to compare a variety of experiment setups and analyze the impact Grid and Cloud software stacks have.]]></abstract>
+
+<issn><![CDATA[2152-1085]]></issn>
+
+<isbn><![CDATA[978-1-4244-9751-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5676126]]></arnumber>
+
+<doi><![CDATA[10.1109/GCE.2010.5676126]]></doi>
+
+<publicationId><![CDATA[5676126]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5676126&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5676126]]></pdf>
+
+</document>
+
+<document>
+
+<rank>3</rank>
+
+<title><![CDATA[Comparison of Multiple Cloud Frameworks]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Diaz, J.;  Fugang Wang;  Fox, G.C.]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[cloud computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Cloud computing]]></term>
+
+<term><![CDATA[Clouds]]></term>
+
+<term><![CDATA[Communities]]></term>
+
+<term><![CDATA[Educational institutions]]></term>
+
+<term><![CDATA[Scalability]]></term>
+
+<term><![CDATA[Servers]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cloud Computing (CLOUD), 2012 IEEE 5th International Conference on]]></pubtitle>
+
+<punumber><![CDATA[6253102]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2012]]></py>
+
+<spage><![CDATA[734]]></spage>
+
+<epage><![CDATA[741]]></epage>
+
+<abstract><![CDATA[Today, many cloud Infrastructure as a Service(IaaS) frameworks exist. Users, developers, and administrators have to make a decision about which environment is best suited for them. Unfortunately, the comparison of such frameworks is difficult because either users do not have access to all of them or they are comparing the performance of such systems on different resources, which make it difficult to obtain objective comparisons. Hence, the community benefits from the availability of a testbed on which comparisons between the IaaS frameworks can be conducted. FutureGrid aims to offer a number of IaaS including Nimbus, Eucalyptus, OpenStack, and OpenNebula. One of the important features that FutureGrid provides is not only the ability to compare between IaaS frameworks, but also to compare them in regards to bare-metal and traditional high performance computing services. In this paper, we outline some of our initial findings by providing such a testbed. As one of our conclusions, we also present our work on making access to the various infrastructures on FutureGrid easier.]]></abstract>
+
+<issn><![CDATA[2159-6182]]></issn>
+
+<isbn><![CDATA[978-1-4673-2892-0]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6253573]]></arnumber>
+
+<doi><![CDATA[10.1109/CLOUD.2012.104]]></doi>
+
+<publicationId><![CDATA[6253573]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6253573&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6253573]]></pdf>
+
+</document>
+
+<document>
+
+<rank>4</rank>
+
+<title><![CDATA[Power-aware scheduling of virtual machines in DVFS-enabled clusters]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Lizhe Wang;  Younge, A.J.;  Xi He]]></authors>
+
+<affiliations><![CDATA[Service Oriented Cyberinfrastructure Lab., Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[microprocessor chips]]></term>
+
+<term><![CDATA[power aware computing]]></term>
+
+<term><![CDATA[processor scheduling]]></term>
+
+<term><![CDATA[supervisory programs]]></term>
+
+<term><![CDATA[virtual machines]]></term>
+
+<term><![CDATA[workstation clusters]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Algorithm design and analysis]]></term>
+
+<term><![CDATA[Cloud computing]]></term>
+
+<term><![CDATA[Dynamic voltage scaling]]></term>
+
+<term><![CDATA[Energy consumption]]></term>
+
+<term><![CDATA[High performance computing]]></term>
+
+<term><![CDATA[Job shop scheduling]]></term>
+
+<term><![CDATA[Large-scale systems]]></term>
+
+<term><![CDATA[Processor scheduling]]></term>
+
+<term><![CDATA[Scheduling algorithm]]></term>
+
+<term><![CDATA[Virtual machining]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cluster Computing and Workshops, 2009. CLUSTER '09. IEEE International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5281774]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[10]]></epage>
+
+<abstract><![CDATA[With the advent of Cloud computing, large-scale virtualized compute and data centers are becoming common in the computing industry. These distributed systems leverage commodity server hardware in mass quantity, similar in theory to many of the fastest Supercomputers in existence today. However these systems can consume a cities worth of power just to run idle, and require equally massive cooling systems to keep the servers within normal operating temperatures. This produces CO<sub>2</sub> emissions and significantly contributes to the growing environmental issue of Global Warming. Green computing, a new trend for high-end computing, attempts to alleviate this problem by delivering both high performance and reduced power consumption, effectively maximizing total system efficiency. This paper focuses on scheduling virtual machines in a compute cluster to reduce power consumption via the technique of Dynamic Voltage Frequency Scaling (DVFS). Specifically, we present the design and implementation of an efficient scheduling algorithm to allocate virtual machines in a DVFS-enabled cluster by dynamically scaling the supplied voltages. The algorithm is studied via simulation and implementation in a multi-core cluster. Test results and performance discussion justify the design and implementation of the scheduling algorithm.]]></abstract>
+
+<issn><![CDATA[1552-5244]]></issn>
+
+<isbn><![CDATA[978-1-4244-5011-4]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5289182]]></arnumber>
+
+<doi><![CDATA[10.1109/CLUSTR.2009.5289182]]></doi>
+
+<publicationId><![CDATA[5289182]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5289182&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5289182]]></pdf>
+
+</document>
+
+<document>
+
+<rank>5</rank>
+
+<title><![CDATA[e-Science Project and Experiment Management with Microsoft Project]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Dilmanian, L.E.]]></authors>
+
+<affiliations><![CDATA[Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[project management]]></term>
+
+<term><![CDATA[software tools]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Costs]]></term>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Instruments]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Project management]]></term>
+
+<term><![CDATA[Prototypes]]></term>
+
+<term><![CDATA[Quality of service]]></term>
+
+<term><![CDATA[Software packages]]></term>
+
+<term><![CDATA[Technology management]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Grid Computing Environments Workshop, 2008. GCE '08]]></pubtitle>
+
+<punumber><![CDATA[4729055]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2008]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[8]]></epage>
+
+<abstract><![CDATA[The design, execution, and monitoring of challenging scientific applications is often a complex affair. To cope with the issue, several tools and frameworks have been designed and put into use. However, the entry barrier to using these tools productively is high, and may hinder the progress of many scientists or non-experts that develop workflows infrequently. As part of the Cyberaide framework, a workflow tool called grid manager had been developed and integrated using the Microsoft Project software package as an elementary component. The advantages of using such a tool are discussed in this paper. Microsoft project is a user friendly project management tool that is being used in a new context. It is being used to design and monitor the execution of grid based projects. The motivation for this choice is that many scientists are already familiar with Microsoft project. Grid Manager enables seamless access to and execution over computational Grids, such as the NSF sponsored TeraGrid. Our framework also allows integration with other resources, including Microsoft Windows HPC Server 2008 (HPC) clusters. We test our hypothesis of usability while evaluating the tool as part of several graduate level courses taught in the field of grid and cloud computing.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-2860-1]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4738449]]></arnumber>
+
+<doi><![CDATA[10.1109/GCE.2008.4738449]]></doi>
+
+<publicationId><![CDATA[4738449]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4738449&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4738449]]></pdf>
+
+</document>
+
+<document>
+
+<rank>6</rank>
+
+<title><![CDATA[Experiment and Workflow Management Using Cyberaide Shell]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Younge, A.;  Xi He;  Mahinthakumar, K.;  Lizhe Wang]]></authors>
+
+<affiliations><![CDATA[Service Oriented Cyberinfrastracture Lab., Rochester Inst. of Technol., Rochester, NY]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[application program interfaces]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[middleware]]></term>
+
+<term><![CDATA[natural sciences computing]]></term>
+
+<term><![CDATA[workflow management software]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Energy management]]></term>
+
+<term><![CDATA[Environmental management]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Middleware]]></term>
+
+<term><![CDATA[Operating systems]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+<term><![CDATA[Technology management]]></term>
+
+<term><![CDATA[USA Councils]]></term>
+
+<term><![CDATA[Usability]]></term>
+
+<term><![CDATA[Utility programs]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cluster Computing and the Grid, 2009. CCGRID '09. 9th IEEE/ACM International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[5071832]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[568]]></spage>
+
+<epage><![CDATA[573]]></epage>
+
+<abstract><![CDATA[In recent years the power of Grid computing has grown exponentially through the development of advanced middleware systems. While usage has increased, the penetration of Grid computing in the scientific community has been less than expected by some. This is due to a steep learning curve and high entry barrier that limit the use of Grid computing and advanced cyberinfrastructure. In order for the scientists to focus on actual scientific tasks, specialized tools and services need to be developed to ease the integration of complex middleware. Our solution is Cyberaide Shell, an advanced but simple to use systemshell which provides access to the powerful cyberinfrastructure available today. Cyberaide Shell provides a dynamic interface that allows access to complex cyberinfrastructure in an easy and intuitive fashion on an ad-hoc basis. This is accomplished by abstracting the complexities of resource, task, and application management through a scriptable command line interface. Through a service integration mechanism, the shellpsilas functionality is exposed to a wide variety of frameworks and programming languages. Cyberaide Shell includes specialized experiment management and workflow commands that, with the scriptable nature of a shell, provide a set of services which where previously unavailable. The usability of Cyberaide Shell is demonstrated using a Water Threat Management application deployed on the TeraGrid.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-3935-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5071923]]></arnumber>
+
+<doi><![CDATA[10.1109/CCGRID.2009.66]]></doi>
+
+<publicationId><![CDATA[5071923]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5071923&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5071923]]></pdf>
+
+</document>
+
+<document>
+
+<rank>7</rank>
+
+<title><![CDATA[Provide Virtual Machine Information for Grid Computing]]></title>
+
+<authors><![CDATA[Lizhe Wang;  von Laszewski, G.;  Dan Chen;  Jie Tao;  Kunze, M.]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[distributed processing]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[information retrieval]]></term>
+
+<term><![CDATA[information services]]></term>
+
+<term><![CDATA[software agents]]></term>
+
+<term><![CDATA[software engineering]]></term>
+
+<term><![CDATA[virtual machines]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Application software]]></term>
+
+<term><![CDATA[Collision mitigation]]></term>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Computer architecture]]></term>
+
+<term><![CDATA[Computer integrated manufacturing]]></term>
+
+<term><![CDATA[Distributed computing]]></term>
+
+<term><![CDATA[Geographic Information Systems]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Information retrieval]]></term>
+
+<term><![CDATA[Monitoring]]></term>
+
+<term><![CDATA[Operating systems]]></term>
+
+<term><![CDATA[Runtime environment]]></term>
+
+<term><![CDATA[Servers]]></term>
+
+<term><![CDATA[Software libraries]]></term>
+
+<term><![CDATA[Virtual machining]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Systems, Man and Cybernetics, Part A: Systems and Humans, IEEE Transactions on]]></pubtitle>
+
+<punumber><![CDATA[3468]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[40]]></volume>
+
+<issue><![CDATA[6]]></issue>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[1362]]></spage>
+
+<epage><![CDATA[1374]]></epage>
+
+<abstract><![CDATA[Distributed virtual machines can help to build scalable, manageable, and efficient grid infrastructures. The work proposed in this paper focuses on employing virtual machines for grid computing. In order to efficiently run grid applications, virtual machine resource information should be provided. This paper first discusses the system architecture of virtual machine pools and the process of information retrieval from virtual machines. Based on the characterization of the system model, this paper presents the work on how to retrieve resource information from Xen/VMware virtual machines via VMware Common Information Model Software Development Kit and lightweight Java agents. The resource information is integrated into a grid information service. The work is implemented in a test bed with Xen/VMware virtual machines and the Globus Toolkit. With a performance evaluation and discussion on a real test bed, it is declared that the design and implementation of information services for virtual-machine-based grid systems are feasible, efficient, and scalable.]]></abstract>
+
+<issn><![CDATA[1083-4427]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5546997]]></arnumber>
+
+<doi><![CDATA[10.1109/TSMCA.2010.2052598]]></doi>
+
+<publicationId><![CDATA[5546997]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5546997&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5546997]]></pdf>
+
+</document>
+
+<document>
+
+<rank>8</rank>
+
+<title><![CDATA[Efficient resource management for Cloud computing environments]]></title>
+
+<authors><![CDATA[Younge, A.J.;  von Laszewski, G.;  Lizhe Wang;  Lopez-Alarcon, S.;  Carithers, W.]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[distributed processing]]></term>
+
+<term><![CDATA[environmental factors]]></term>
+
+<term><![CDATA[power aware computing]]></term>
+
+<term><![CDATA[resource allocation]]></term>
+
+<term><![CDATA[software architecture]]></term>
+
+<term><![CDATA[virtual machines]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[Virtual machining]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Green Computing Conference, 2010 International]]></pubtitle>
+
+<punumber><![CDATA[5586929]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[357]]></spage>
+
+<epage><![CDATA[364]]></epage>
+
+<abstract><![CDATA[The notion of Cloud computing has not only reshaped the field of distributed systems but also fundamentally changed how businesses utilize computing today. While Cloud computing provides many advanced features, it still has some shortcomings such as the relatively high operating cost for both public and private Clouds. The area of Green computing is also becoming increasingly important in a world with limited energy resources and an ever-rising demand for more computational power. In this paper a new framework is presented that provides efficient green enhancements within a scalable Cloud computing architecture. Using power-aware scheduling techniques, variable resource management, live migration, and a minimal virtual machine design, overall system efficiency will be vastly improved in a data center based Cloud with minimal performance overhead.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-7612-1]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5598294]]></arnumber>
+
+<doi><![CDATA[10.1109/GREENCOMP.2010.5598294]]></doi>
+
+<publicationId><![CDATA[5598294]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5598294&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5598294]]></pdf>
+
+</document>
+
+<document>
+
+<rank>9</rank>
+
+<title><![CDATA[Towards Thermal Aware Workload Scheduling in a Data Center]]></title>
+
+<authors><![CDATA[Lizhe Wang;  von Laszewski, G.;  Dayal, J.;  Xi He;  Younge, A.J.;  Furlani, T.R.]]></authors>
+
+<affiliations><![CDATA[Service Oriented Cyberinfrastructure Lab., Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer centres]]></term>
+
+<term><![CDATA[cooling]]></term>
+
+<term><![CDATA[power consumption]]></term>
+
+<term><![CDATA[power engineering computing]]></term>
+
+<term><![CDATA[scheduling]]></term>
+
+<term><![CDATA[software maintenance]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computational fluid dynamics]]></term>
+
+<term><![CDATA[Computational modeling]]></term>
+
+<term><![CDATA[Cooling]]></term>
+
+<term><![CDATA[Costs]]></term>
+
+<term><![CDATA[Energy consumption]]></term>
+
+<term><![CDATA[Heat transfer]]></term>
+
+<term><![CDATA[Processor scheduling]]></term>
+
+<term><![CDATA[Scheduling algorithm]]></term>
+
+<term><![CDATA[Temperature]]></term>
+
+<term><![CDATA[Thermal management]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Pervasive Systems, Algorithms, and Networks (ISPAN), 2009 10th International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[5379703]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[116]]></spage>
+
+<epage><![CDATA[122]]></epage>
+
+<abstract><![CDATA[High density blade servers are a popular technology for data centers, however, the heat dissipation density of data centers increases exponentially. There is strong evidence to support that high temperatures of such data centers will lead to higher hardware failure rates and thus an increase in maintenance costs. Improperly designed or operated data centers may either suffer from overheated servers and potential system failures, or from overcooled systems, causing extraneous utilities cost. Minimizing the cost of operation (utilities, maintenance, device upgrade and replacement) of data centers is one of the key issues involved with both optimizing computing resources and maximizing business outcome. This paper proposes an analytical model, which describes data center resources with heat transfer properties and workloads with thermal features. Then a thermal aware task scheduling algorithm is presented which aims to reduce power consumption and temperatures in a data center. A simulation study is carried out to evaluate the performance of the algorithm. Simulation results show that our algorithm can significantly reduce temperatures in data centers by introducing endurable decline in performance.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-5403-7]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5381947]]></arnumber>
+
+<doi><![CDATA[10.1109/I-SPAN.2009.22]]></doi>
+
+<publicationId><![CDATA[5381947]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5381947&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5381947]]></pdf>
+
+</document>
+
+<document>
+
+<rank>10</rank>
+
+<title><![CDATA[Quality Assured Ad Hoc Grids]]></title>
+
+<authors><![CDATA[Amin, K.;  von Laszewski, G.;  Mikler, A.R.]]></authors>
+
+<affiliations><![CDATA[University of North Texas]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Availability]]></term>
+
+<term><![CDATA[Centralized control]]></term>
+
+<term><![CDATA[Collaboration]]></term>
+
+<term><![CDATA[Distributed control]]></term>
+
+<term><![CDATA[Electronic switching systems]]></term>
+
+<term><![CDATA[Environmental management]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Quality of service]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Autonomic and Autonomous Systems and International Conference on Networking and Services, 2005. ICAS-ICNS 2005. Joint International Conference on]]></pubtitle>
+
+<punumber><![CDATA[10434]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2005]]></py>
+
+<spage><![CDATA[92]]></spage>
+
+<epage><![CDATA[92]]></epage>
+
+<abstract><![CDATA[This paper presents an integrated architecture for ad hoc Grids developed within the Java CoG Kit project. It provides an overview of the key component frameworks that collectively build the ad hoc Grid architecture. Further, it outlines a formal model that can be formally evaluated. The paper also presents an enhancement to the Java CoG Kit to address requirements posed by ad hoc Grids. It integrates into the Java CoG Kit commodity technologies such as Jxta, and ClassAds.]]></abstract>
+
+<isbn><![CDATA[0-7695-2450-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1559944]]></arnumber>
+
+<doi><![CDATA[10.1109/ICAS-ICNS.2005.82]]></doi>
+
+<publicationId><![CDATA[1559944]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1559944&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1559944]]></pdf>
+
+</document>
+
+<document>
+
+<rank>11</rank>
+
+<title><![CDATA[A Repository Service for Grid Workflow Components]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Kodeboyina, D.]]></authors>
+
+<affiliations><![CDATA[Argonne Nat. Lab., IL]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[ad hoc networks]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Availability]]></term>
+
+<term><![CDATA[Buildings]]></term>
+
+<term><![CDATA[Collaborative work]]></term>
+
+<term><![CDATA[Conference management]]></term>
+
+<term><![CDATA[Independent component analysis]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Libraries]]></term>
+
+<term><![CDATA[Network servers]]></term>
+
+<term><![CDATA[Peer to peer computing]]></term>
+
+<term><![CDATA[Runtime]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Autonomic and Autonomous Systems and International Conference on Networking and Services, 2005. ICAS-ICNS 2005. Joint International Conference on]]></pubtitle>
+
+<punumber><![CDATA[10434]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2005]]></py>
+
+<spage><![CDATA[84]]></spage>
+
+<epage><![CDATA[84]]></epage>
+
+<abstract><![CDATA[As part of the Java CoG kit we have defined a sophisticated workflow framework. This workflow framework projects an integrated approach towards executing tasks in grid and non-grid environments. One of the services needed is a convenient service to store, retrieve, and modify workflow components defined by the community similar to systems such as the comprehensive perl archive network. The availability of such a service will not only allow the definition of components useful for the greater grid community, but it will also be possible that it can be reused to support dynamically changing workflows managed by collaborative groups. In this paper, we present a simple extensible framework to design, build, and deploy a workflow repository service. This repository is intended to be used in ad-hoc grids or in community grids]]></abstract>
+
+<isbn><![CDATA[0-7695-2450-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1559936]]></arnumber>
+
+<doi><![CDATA[10.1109/ICAS-ICNS.2005.8]]></doi>
+
+<publicationId><![CDATA[1559936]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1559936&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1559936]]></pdf>
+
+</document>
+
+<document>
+
+<rank>12</rank>
+
+<title><![CDATA[Power Aware Scheduling for Parallel Tasks via Task Clustering]]></title>
+
+<authors><![CDATA[Lizhe Wang;  Jie Tao;  von Laszewski, G.;  Dan Chen]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[energy consumption]]></term>
+
+<term><![CDATA[parallel processing]]></term>
+
+<term><![CDATA[power aware computing]]></term>
+
+<term><![CDATA[scheduling]]></term>
+
+<term><![CDATA[simulation]]></term>
+
+<term><![CDATA[task analysis]]></term>
+
+</controlledterms>
+
+<pubtitle><![CDATA[Parallel and Distributed Systems (ICPADS), 2010 IEEE 16th International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5692856]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[629]]></spage>
+
+<epage><![CDATA[634]]></epage>
+
+<abstract><![CDATA[It has been widely known that various benefits can be achieved by reducing energy consumption for high end computing. This paper aims to develop power aware scheduling heuristics for parallel tasks in a cluster with the DVFS technique. In this paper, formal models are presented for precedence-constrained parallel tasks, DVFS enabled clusters, and energy consumption. This paper studies the slack time for non-critical jobs, extends their execution time and reduces the energy consumption without increasing the task's execution time as a whole. This paper develops a power aware task clustering algorithm for parallel task scheduling Simulation results justify the design and implementation of proposed energy aware scheduling heuristics in the paper.]]></abstract>
+
+<issn><![CDATA[1521-9097]]></issn>
+
+<isbn><![CDATA[978-1-4244-9727-0]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5695657]]></arnumber>
+
+<doi><![CDATA[10.1109/ICPADS.2010.128]]></doi>
+
+<publicationId><![CDATA[5695657]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5695657&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5695657]]></pdf>
+
+</document>
+
+<document>
+
+<rank>13</rank>
+
+<title><![CDATA[A fault detection service for wide area distributed computations]]></title>
+
+<authors><![CDATA[Stelling, P.;  Foster, I.;  Kesselman, C.;  Lee, C.;  von Laszewski, G.]]></authors>
+
+<affiliations><![CDATA[Aerosp. Corp., El Segundo, CA, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[computer network reliability]]></term>
+
+<term><![CDATA[fault diagnosis]]></term>
+
+<term><![CDATA[system monitoring]]></term>
+
+<term><![CDATA[wide area networks]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Application software]]></term>
+
+<term><![CDATA[Computer networks]]></term>
+
+<term><![CDATA[Computer science]]></term>
+
+<term><![CDATA[Costs]]></term>
+
+<term><![CDATA[Distributed computing]]></term>
+
+<term><![CDATA[Fault detection]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Laboratories]]></term>
+
+<term><![CDATA[Mathematics]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[High Performance Distributed Computing, 1998. Proceedings. The Seventh International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[5737]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[1998]]></py>
+
+<spage><![CDATA[268]]></spage>
+
+<epage><![CDATA[278]]></epage>
+
+<abstract><![CDATA[The potential for faults in distributed computing systems is a significant complicating factor for application developers. While a variety of techniques exist for detecting and correcting faults, the implementation of these techniques in a particular context can be difficult. Hence, we propose a fault detection service designed to be incorporated, in a modular fashion, into distributed computing systems, tools, or applications. This service uses well-known techniques based on unreliable fault detectors to detect and report component failure, while allowing the user to tradeoff timeliness of reporting against false positive rates. We describe the architecture of this service, report on experimental results that quantify its cost and accuracy, and describe its use in two applications, monitoring the status of system components of the GUSTO computational grid testbed and as part of the NetSolve network-enabled numerical solver]]></abstract>
+
+<issn><![CDATA[1082-8907]]></issn>
+
+<isbn><![CDATA[0-8186-8579-4]]></isbn>
+
+<arnumber><![CDATA[709981]]></arnumber>
+
+<doi><![CDATA[10.1109/HPDC.1998.709981]]></doi>
+
+<publicationId><![CDATA[709981]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=709981&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=709981]]></pdf>
+
+</document>
+
+<document>
+
+<rank>14</rank>
+
+<title><![CDATA[FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images]]></title>
+
+<authors><![CDATA[Diaz, J.;  von Laszewski, G.;  Fugang Wang;  Younge, A.J.;  Fox, G.]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[cloud computing]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[meta data]]></term>
+
+<term><![CDATA[operating systems (computers)]]></term>
+
+<term><![CDATA[storage management]]></term>
+
+<term><![CDATA[virtual machines]]></term>
+
+<term><![CDATA[virtualisation]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Catalogs]]></term>
+
+<term><![CDATA[Clouds]]></term>
+
+<term><![CDATA[Fault tolerance]]></term>
+
+<term><![CDATA[Fault tolerant systems]]></term>
+
+<term><![CDATA[Portals]]></term>
+
+<term><![CDATA[Security]]></term>
+
+<term><![CDATA[Software]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cloud Computing Technology and Science (CloudCom), 2011 IEEE Third International Conference on]]></pubtitle>
+
+<punumber><![CDATA[6132468]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2011]]></py>
+
+<spage><![CDATA[560]]></spage>
+
+<epage><![CDATA[564]]></epage>
+
+<abstract><![CDATA[Future Grid (FG) is an experimental, high-performance test bed that supports HPC, cloud and grid computing experiments for both application and computer scientist. Future Grid includes the use of virtualization technology to allow the support of a wide range of operating systems in order to include a test bed for various cloud computing infrastructure as a service frameworks. Therefore, efficient management of a variety of virtual machine images becomes a key issue. Current cloud frameworks do not provide a way to manage images for different IaaS frameworks. They typically provide their own image repositories, but in general they do not allow us to store the needed metadata to handle other IaaS images. We present a generic catalog and image repository to store images of any type. Our image repository has a convenient interface that distinguishes image types. Therefore, it is not only useful for Future Grid, but also for any application that needs to manage images.]]></abstract>
+
+<isbn><![CDATA[978-1-4673-0090-2]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6133194]]></arnumber>
+
+<doi><![CDATA[10.1109/CloudCom.2011.85]]></doi>
+
+<publicationId><![CDATA[6133194]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6133194&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6133194]]></pdf>
+
+</document>
+
+<document>
+
+<rank>15</rank>
+
+<title><![CDATA[Grid Virtualization Engine: Design, Implementation, and Evaluation]]></title>
+
+<authors><![CDATA[Lizhe Wang;  von Laszewski, G.;  Jie Tao;  Kunze, M.]]></authors>
+
+<affiliations><![CDATA[Service Oriented Cyberinfrastructure Lab., Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Web services]]></term>
+
+<term><![CDATA[cybernetics]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[quality of service]]></term>
+
+<term><![CDATA[virtual machines]]></term>
+
+</controlledterms>
+
+<pubtitle><![CDATA[Systems Journal, IEEE]]></pubtitle>
+
+<punumber><![CDATA[4267003]]></punumber>
+
+<pubtype><![CDATA[Journals & Magazines]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<volume><![CDATA[3]]></volume>
+
+<issue><![CDATA[4]]></issue>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[477]]></spage>
+
+<epage><![CDATA[488]]></epage>
+
+<abstract><![CDATA[Virtual machines offer various advantages such as easy configuration, management, development and deployment of computing resources for cyberinfrastructures. Recent advances of employing virtual machines for Grid computing can help Grid communities to solve research issues, for example, qualities of service (QoS) provision and computing environment customization. The heterogeneous virtualization implementations, however, bring challenges for employing virtual machine as computing resources to build Grid infrastructures. The work proposed in this paper focuses on building a Web service based virtual machine provider for Grid infrastructures. The Grid Virtualization Engine (GVE) creates an abstract layer between users and underlying virtualization technologies. It implements a scalable distributed architecture in a hierarchical flavor. The GVE Site Service provides Web service interfaces for users to operate virtual machines, thereafter building Grid infrastructures. The underlying GVE Agent Service talks with different virtualization products inside the computing center and provides virtual machine resources to the GVE Site Service. The GVE is designed and implemented with the state of the arts of distributed computing technologies: Web service and Grid standards. The GVE is evaluated with CMS benchmark, a high-energy physics application from CERN. In addition to the GVE design and implementation, this paper also uses a real example to illustrate how to apply the GVE to build an e-Science infrastructure at runtime. By providing experiments, tests, and a use scenario, we show the GVE is an efficient and lightweight middleware for building grid infrastructures with virtual machines.]]></abstract>
+
+<issn><![CDATA[1932-8184]]></issn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5291719]]></arnumber>
+
+<doi><![CDATA[10.1109/JSYST.2009.2028589]]></doi>
+
+<publicationId><![CDATA[5291719]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5291719&contentType=Journals+%26+Magazines]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5291719]]></pdf>
+
+</document>
+
+<document>
+
+<rank>16</rank>
+
+<title><![CDATA[Abstracting the Grid]]></title>
+
+<authors><![CDATA[Arnin, K.;  Hategan, M.;  von Laszewski, G.;  Zaluzec, N.J.]]></authors>
+
+<affiliations><![CDATA[Argonne Nat. Lab., IL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[open systems]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Application software]]></term>
+
+<term><![CDATA[Collaboration]]></term>
+
+<term><![CDATA[Computer architecture]]></term>
+
+<term><![CDATA[Data structures]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Service oriented architecture]]></term>
+
+<term><![CDATA[Standardization]]></term>
+
+<term><![CDATA[Standards development]]></term>
+
+<term><![CDATA[User interfaces]]></term>
+
+<term><![CDATA[Web services]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Parallel, Distributed and Network-Based Processing, 2004. Proceedings. 12th Euromicro Conference on]]></pubtitle>
+
+<punumber><![CDATA[8971]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2004]]></py>
+
+<spage><![CDATA[250]]></spage>
+
+<epage><![CDATA[257]]></epage>
+
+<abstract><![CDATA[The Grid approach allows collaborative pooling of distributed resources across multiple domains. However, the benefits of the Grid are limited to those offered by the commodity application development framework used. Several elegant and flexible application development frameworks support only specific Grid architectures, thereby not allowing the applications to exploit the full potential of the Grid. In order to initiate community interest to standardize a high-level abstraction layer for different Grid architectures, we introduce a collection of abstractions and data structures that collectively build a basis for an open Grid computing environment.]]></abstract>
+
+<issn><![CDATA[1066-6192]]></issn>
+
+<isbn><![CDATA[0-7695-2083-9]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1271452]]></arnumber>
+
+<doi><![CDATA[10.1109/EMPDP.2004.1271452]]></doi>
+
+<publicationId><![CDATA[1271452]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1271452&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1271452]]></pdf>
+
+</document>
+
+<document>
+
+<rank>17</rank>
+
+<title><![CDATA[Schedule Distributed Virtual Machines in a Service Oriented Environment]]></title>
+
+<authors><![CDATA[Lizhe Wang;  von Laszewski, G.;  Kunze, M.;  Jie Tao]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Web services]]></term>
+
+<term><![CDATA[quality of service]]></term>
+
+<term><![CDATA[scheduling]]></term>
+
+<term><![CDATA[software architecture]]></term>
+
+<term><![CDATA[virtual machines]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Condition monitoring]]></term>
+
+<term><![CDATA[Distributed computing]]></term>
+
+<term><![CDATA[Processor scheduling]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+<term><![CDATA[Scheduling algorithm]]></term>
+
+<term><![CDATA[Scientific computing]]></term>
+
+<term><![CDATA[Semiconductor optical amplifiers]]></term>
+
+<term><![CDATA[Service oriented architecture]]></term>
+
+<term><![CDATA[Virtual machine monitors]]></term>
+
+<term><![CDATA[Virtual machining]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Advanced Information Networking and Applications (AINA), 2010 24th IEEE International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5473893]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2010]]></py>
+
+<spage><![CDATA[230]]></spage>
+
+<epage><![CDATA[236]]></epage>
+
+<abstract><![CDATA[Virtual machines offer unique advantages to the scientific computing community, such as Quality of Service(QoS) guarantee, performance isolation, easy resource management, and the on-demand deployment of computing environments. Using virtual machines as a computing resource within a distributed environment, such as Service Oriented Architecture (SOA), creates a variety of new issues and challenges that must be overcome. Traditionally, parallel task scheduling algorithms only focus on handling CPU resources. Using of a virtual machine, however, requires the monitoring and management of additional resource properties. Additionally, CPU, memory, storage, and software licenses must also be considered within the scheduling algorithm. The objective of this paper is to address these challenges of a multi-dimensional scheduling algorithm for virtual machines within a SOA. To do this, we deploy a testbed SOA environment composed of virtual machines which are capable of being registered, indexed, allocated, accessed, and controlled by our new parallel task scheduling algorithm.]]></abstract>
+
+<issn><![CDATA[1550-445X]]></issn>
+
+<isbn><![CDATA[978-1-4244-6695-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5474704]]></arnumber>
+
+<doi><![CDATA[10.1109/AINA.2010.47]]></doi>
+
+<publicationId><![CDATA[5474704]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5474704&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5474704]]></pdf>
+
+</document>
+
+<document>
+
+<rank>18</rank>
+
+<title><![CDATA[Cyberaide Creative: On-Demand Cyberinfrastructure Provision in Clouds]]></title>
+
+<authors><![CDATA[Rathbone, C.;  Lizhe Wang;  von Laszewski, G.;  Fugang Wang]]></authors>
+
+<affiliations><![CDATA[Service Oriented Cyberinfrastrature Lab., Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[middleware]]></term>
+
+<term><![CDATA[user interfaces]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Cloud computing]]></term>
+
+<term><![CDATA[Computer interfaces]]></term>
+
+<term><![CDATA[Computer networks]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[Middleware]]></term>
+
+<term><![CDATA[Pervasive computing]]></term>
+
+<term><![CDATA[Resource virtualization]]></term>
+
+<term><![CDATA[Software algorithms]]></term>
+
+<term><![CDATA[System software]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Pervasive Systems, Algorithms, and Networks (ISPAN), 2009 10th International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[5379703]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[684]]></spage>
+
+<epage><![CDATA[690]]></epage>
+
+<abstract><![CDATA[As demand for grid and cloud computing solutions increases, the need for user oriented software to provide access to theses resources also increases. Until recently the use of computing resources was limited to those with exceptional knowledge of the system design and configuration. With the advent of grid middleware projects this started to change allowing for new users not familiar with the complex grid infrastructure and client software to use the systems for their own research. The Cyberaide Gridshell demonstrated this by developing a user friendly interface to submit jobs to a grid. Following this theme it is our objective to create a tool that will take another step further by abstracting the creation and configuration of the infrastructure and system software away from the end-user. This will be achieved through the use of cloud resources provided by VMware virtualization and deployment via a web interface. We will show the benefits of deploying cyber infrastructures, like clusters and grids, on a cloud design by demonstrating the ease of cyber infrastructure deployment and the versatility of the systems that can be spawned on demand.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-5403-7]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5381699]]></arnumber>
+
+<doi><![CDATA[10.1109/I-SPAN.2009.23]]></doi>
+
+<publicationId><![CDATA[5381699]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5381699&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5381699]]></pdf>
+
+</document>
+
+<document>
+
+<rank>19</rank>
+
+<title><![CDATA[QoS support for high-performance scientific Grid applications]]></title>
+
+<authors><![CDATA[Al-Ali, R.;  von Laszewski, G.;  Amin, K.;  Hategan, M.;  Rana, O.;  Walker, D.;  Zaluzec, N.]]></authors>
+
+<affiliations><![CDATA[Argonne Nat. Lab., IL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[groupware]]></term>
+
+<term><![CDATA[natural sciences computing]]></term>
+
+<term><![CDATA[quality of service]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Collaboration]]></term>
+
+<term><![CDATA[Data visualization]]></term>
+
+<term><![CDATA[Electron microscopy]]></term>
+
+<term><![CDATA[Environmental management]]></term>
+
+<term><![CDATA[Laboratories]]></term>
+
+<term><![CDATA[Prototypes]]></term>
+
+<term><![CDATA[Quality management]]></term>
+
+<term><![CDATA[Quality of service]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+<term><![CDATA[Scheduling]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cluster Computing and the Grid, 2004. CCGrid 2004. IEEE International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[9282]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2004]]></py>
+
+<spage><![CDATA[134]]></spage>
+
+<epage><![CDATA[143]]></epage>
+
+<abstract><![CDATA[The Grid approach provides the ability to access and use distributed resources as part of virtual organizations. The emerging Grid infrastructure gives rise to a class of scientific applications and services to support collaborative and distributed resource-sharing requirements as part of teleimmersion, visualization, and simulation services. Because such applications operate in a collaborative mode, data must be stored and delivered in timely manner to meet deadlines. Hence, this class of applications has stringent real-time constraints and quality-of-service (QoS) requirements. A QoS management approach is required to orchestrate and guarantee the interaction between such applications and services. In this paper we discuss the design and prototype implementation of a QoS system and show how we enable Grid applications to become QoS compliant. We validate this approach through a case study of nanomaterials. Our approach enhances the current Open Grid Services Architecture. We demonstrate the usefulness of the approach on a nanomaterials application.]]></abstract>
+
+<isbn><![CDATA[0-7803-8430-X]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1336559]]></arnumber>
+
+<doi><![CDATA[10.1109/CCGrid.2004.1336559]]></doi>
+
+<publicationId><![CDATA[1336559]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1336559&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1336559]]></pdf>
+
+</document>
+
+<document>
+
+<rank>20</rank>
+
+<title><![CDATA[A greedy grid - the grid economic engine directive]]></title>
+
+<authors><![CDATA[Vazhkudai, S.;  von Laszewski, G.]]></authors>
+
+<affiliations><![CDATA[The University of Mississippi]]></affiliations>
+
+<thesaurusterms>
+
+<term><![CDATA[Engines]]></term>
+
+<term><![CDATA[Variable speed drives]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Parallel and Distributed Processing Symposium., Proceedings 15th International]]></pubtitle>
+
+<punumber><![CDATA[7373]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2001]]></py>
+
+<spage><![CDATA[1806]]></spage>
+
+<epage><![CDATA[1815]]></epage>
+
+<abstract><![CDATA[<div style="font-variant: small-caps; font-size: .9em;">First Page of the Article</div><img class="img-abs-container" style="width: 95%; border: 1px solid #808080;" src="/xploreAssets/images/absImages/00925170.png" border="0">]]></abstract>
+
+<issn><![CDATA[1530-2075]]></issn>
+
+<isbn><![CDATA[0-7695-0990-8]]></isbn>
+
+<arnumber><![CDATA[925170]]></arnumber>
+
+<doi><![CDATA[10.1109/IPDPS.2001.925170]]></doi>
+
+<publicationId><![CDATA[925170]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=925170&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=925170]]></pdf>
+
+</document>
+
+<document>
+
+<rank>21</rank>
+
+<title><![CDATA[Flexible framework for commodity FPGA cluster computing]]></title>
+
+<authors><![CDATA[Espenshade, J.;  Lukowiak, M.;  Shaaban, M.;  von Laszewski, G.]]></authors>
+
+<affiliations><![CDATA[Dept. of Comput. Eng., Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[field programmable gate arrays]]></term>
+
+<term><![CDATA[hardware-software codesign]]></term>
+
+<term><![CDATA[message passing]]></term>
+
+<term><![CDATA[parallel programming]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Application software]]></term>
+
+<term><![CDATA[Costs]]></term>
+
+<term><![CDATA[Energy management]]></term>
+
+<term><![CDATA[Field programmable gate arrays]]></term>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[High performance computing]]></term>
+
+<term><![CDATA[Linux]]></term>
+
+<term><![CDATA[Software tools]]></term>
+
+<term><![CDATA[Standards development]]></term>
+
+<term><![CDATA[Technology management]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Field-Programmable Technology, 2009. FPT 2009. International Conference on]]></pubtitle>
+
+<punumber><![CDATA[5367680]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2009]]></py>
+
+<spage><![CDATA[465]]></spage>
+
+<epage><![CDATA[471]]></epage>
+
+<abstract><![CDATA[With falling costs and successful demonstrations of performance, FPGAs have become a prime candidate for use in high performance computing. However, the use of FPGA technology in clustered environments has largely been limited to commercial and/or proprietary designs that require developers to learn new programming models and software tools. In this paper, a framework is presented which enables development of parallel programs across application-specific reconfigurable hardware using simple hardware interface abstractions and standard MPI application structure. This approach leverages commodity technologies including embedded Linux running on hardwired PowerPC processors to manage communication such that each hardware acceleration unit can function as a fully MPI-2 compatible node. The implied hardware/software design and programming model are discussed and an application case study is presented to demonstrate functionality and elucidate platform benefits through performance analysis.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-4375-8]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[5377649]]></arnumber>
+
+<doi><![CDATA[10.1109/FPT.2009.5377649]]></doi>
+
+<publicationId><![CDATA[5377649]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5377649&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5377649]]></pdf>
+
+</document>
+
+<document>
+
+<rank>22</rank>
+
+<title><![CDATA[Ad hoc grid security infrastructure]]></title>
+
+<authors><![CDATA[Amin, K.;  von Laszewski, G.;  Sosonkin, M.;  Mikler, A.R.;  Hategan, M.]]></authors>
+
+<affiliations><![CDATA[Math. & Comput. Sci. Div., Argonne Nat. Lab., IL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[XML]]></term>
+
+<term><![CDATA[authorisation]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[groupware]]></term>
+
+<term><![CDATA[message authentication]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Authorization]]></term>
+
+<term><![CDATA[Centralized control]]></term>
+
+<term><![CDATA[Collaboration]]></term>
+
+<term><![CDATA[Computer science]]></term>
+
+<term><![CDATA[Computer security]]></term>
+
+<term><![CDATA[Environmental management]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Mathematics]]></term>
+
+<term><![CDATA[National security]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Grid Computing, 2005. The 6th IEEE/ACM International Workshop on]]></pubtitle>
+
+<punumber><![CDATA[10354]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2005]]></py>
+
+<spage><![CDATA[8 pp.]]></spage>
+
+<abstract><![CDATA[This paper describes an ad hoc grid security infrastructure developed as a part of the Java CoG Kit project. It supports several requirements specific to the sporadic nature of ad hoc grids. It focuses on identity management, identity verification, and authorization control in spontaneous grid collaborations without pre-established policies or environments. It adopts established community standards, with modifications where needed. This paper also discusses the integration of the ad hoc grid security infrastructure in an ad hoc grid implementation. The implementation supports secure collaboration in ad hoc grids using commodity technologies such as the Java CoG Kit, JXTA, GSI, and XACML.]]></abstract>
+
+<isbn><![CDATA[0-7803-9492-5]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1542726]]></arnumber>
+
+<doi><![CDATA[10.1109/GRID.2005.1542726]]></doi>
+
+<publicationId><![CDATA[1542726]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1542726&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1542726]]></pdf>
+
+</document>
+
+<document>
+
+<rank>23</rank>
+
+<title><![CDATA[Cyberaide JavaScript: A JavaScript Commodity Grid Kit]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Fugang Wang;  Younge, A.;  Xi He;  Zhenhua Guo;  Pierce, M.]]></authors>
+
+<affiliations><![CDATA[Rochester Inst. of Technol., Rochester, NY, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Web services]]></term>
+
+<term><![CDATA[application program interfaces]]></term>
+
+<term><![CDATA[authoring languages]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Graphical user interfaces]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Java]]></term>
+
+<term><![CDATA[Libraries]]></term>
+
+<term><![CDATA[Middleware]]></term>
+
+<term><![CDATA[Portals]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+<term><![CDATA[Service oriented architecture]]></term>
+
+<term><![CDATA[Software maintenance]]></term>
+
+<term><![CDATA[Web services]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Grid Computing Environments Workshop, 2008. GCE '08]]></pubtitle>
+
+<punumber><![CDATA[4729055]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2008]]></py>
+
+<spage><![CDATA[1]]></spage>
+
+<epage><![CDATA[10]]></epage>
+
+<abstract><![CDATA[In this paper, we describe a service oriented architecture and Grid abstraction framework that allows us to access Grids through JavaScript. Obviously, such a framework integrates well with other Web 2.0 technologies. The framework consists of two parts. A client Application Programming Interface (API) to access the Grid via JavaScript and a mediator service and API through which the Grid access is channeled. The framework uses commodity Web service standards and provides extended functionality such as asynchronous task management, file transfer, and workflow management based on our previous work. The availability of our framework simplifies not only the development of new services, but also the development of advanced client side Grid applications that can be accessed through Web browsers. We demonstrate this ability by providing an example that integrates a variety of useful services to be accessed through a JavaScript enabled client desktop via a Web browser. Overall, Grid developers will have another tool at their disposal that projects a simpler way to distribute and maintain cyberinfrastructure related software, while simultaneously delivering advanced interfaces and integrating social services for the scientific community.]]></abstract>
+
+<isbn><![CDATA[978-1-4244-2860-1]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[4738448]]></arnumber>
+
+<doi><![CDATA[10.1109/GCE.2008.4738448]]></doi>
+
+<publicationId><![CDATA[4738448]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4738448&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4738448]]></pdf>
+
+</document>
+
+<document>
+
+<rank>24</rank>
+
+<title><![CDATA[GridAnt: a client-controllable grid workflow system]]></title>
+
+<authors><![CDATA[Amin, K.;  von Laszewski, G.;  Hategan, M.;  Zaluzec, N.J.;  Hampton, S.;  Rossi, A.]]></authors>
+
+<affiliations><![CDATA[Argonne Nat. Lab., IL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[workflow management software]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Business]]></term>
+
+<term><![CDATA[Collaborative work]]></term>
+
+<term><![CDATA[Context]]></term>
+
+<term><![CDATA[Dynamic programming]]></term>
+
+<term><![CDATA[Grid computing]]></term>
+
+<term><![CDATA[Hardware]]></term>
+
+<term><![CDATA[Laboratories]]></term>
+
+<term><![CDATA[Open source software]]></term>
+
+<term><![CDATA[Pattern analysis]]></term>
+
+<term><![CDATA[Workflow management software]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[System Sciences, 2004. Proceedings of the 37th Annual Hawaii International Conference on]]></pubtitle>
+
+<punumber><![CDATA[8934]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2004]]></py>
+
+<spage><![CDATA[10 pp.]]></spage>
+
+<abstract><![CDATA[Process management is an extremely important concept in both business and scientific communities. Several workflow management tools have been proposed in recent years offering advanced functionality in various domains. In the business world, workflow vendors offer commercial and customized solutions targeting specific users. In the scientific world, several open-source workflow management tools are freely available. However they are directed toward service aggregation rather than distributed process management. Little consideration is given to the needs of the client in terms of mapping the process flow of the client. In the grid community it is essential that the grid users have such a tool available enabling them to orchestrate complex work-flows on the fly without substantial help from the service providers. At the same time it is important that the grid user not be burdened with the intricacies of the workflow system. With the perspective of the grid user in mind, an extensible client-side workflow management system, called GridAnt, has been developed. This paper discusses the design principles, functionality, and application of the proposed GridAnt workflow manager.]]></abstract>
+
+<isbn><![CDATA[0-7695-2056-1]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1265491]]></arnumber>
+
+<doi><![CDATA[10.1109/HICSS.2004.1265491]]></doi>
+
+<publicationId><![CDATA[1265491]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1265491&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1265491]]></pdf>
+
+</document>
+
+<document>
+
+<rank>25</rank>
+
+<title><![CDATA[InfoGram: a grid service that supports both information queries and job execution]]></title>
+
+<authors><![CDATA[von Laszewski, G.;  Gawor, J.;  Pena, C.J.;  Foster, I.]]></authors>
+
+<affiliations><![CDATA[Argonne Nat. Lab., IL, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[Internet]]></term>
+
+<term><![CDATA[distributed processing]]></term>
+
+<term><![CDATA[information resources]]></term>
+
+<term><![CDATA[processor scheduling]]></term>
+
+<term><![CDATA[query processing]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Computer architecture]]></term>
+
+<term><![CDATA[Computer science]]></term>
+
+<term><![CDATA[Information security]]></term>
+
+<term><![CDATA[Laboratories]]></term>
+
+<term><![CDATA[Project management]]></term>
+
+<term><![CDATA[Protocols]]></term>
+
+<term><![CDATA[Prototypes]]></term>
+
+<term><![CDATA[Resource management]]></term>
+
+<term><![CDATA[Web services]]></term>
+
+<term><![CDATA[Wire]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[High Performance Distributed Computing, 2002. HPDC-11 2002. Proceedings. 11th IEEE International Symposium on]]></pubtitle>
+
+<punumber><![CDATA[7999]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2002]]></py>
+
+<spage><![CDATA[333]]></spage>
+
+<epage><![CDATA[342]]></epage>
+
+<abstract><![CDATA[The research described in this paper is performed as part of the Globus Project. It introduces a new grid service called InfoGram that combines the ability of serving as information service and as a job execution service. Previously, both services were architected and implemented within the Globus Toolkit as two different services with different wire protocols. Our service demonstrates a significant simplification of the architecture while treating job submissions and information queries alike. The advantage of our service is that it provides backwards compatibility to existing grid services, while at the same time providing forwards compatibility to the emerging Web services world. Part of the work conducted within this effort is already reused by the current open grid services architecture prototype implementation.]]></abstract>
+
+<issn><![CDATA[1082-8907]]></issn>
+
+<isbn><![CDATA[0-7695-1686-6]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[1029933]]></arnumber>
+
+<doi><![CDATA[10.1109/HPDC.2002.1029933]]></doi>
+
+<publicationId><![CDATA[1029933]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1029933&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1029933]]></pdf>
+
+</document>
+
+</root>
+
+======================================================================
+ieee author details json
+======================================================================
+"{\n    \"root\": {\n        \"totalfound\": \"37\", \n        \"totalsearched\": \"3836819\", \n        \"document\": [\n            {\n                \"rank\": \"1\", \n                \"title\": \"A Grid Certificate Authority for Community and Ad-Hoc Grids\", \n                \"authors\": \"von Laszewski, G.;  Sosonkin, M.\", \n                \"affiliations\": \"Argonne Nat. Lab., IL, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Java\", \n                        \"authorisation\", \n                        \"certification\", \n                        \"grid computing\", \n                        \"middleware\", \n                        \"object-oriented programming\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Authorization\", \n                        \"Computer vision\", \n                        \"Content addressable storage\", \n                        \"Cryptography\", \n                        \"Grid computing\", \n                        \"Information security\", \n                        \"Physics computing\", \n                        \"Production\", \n                        \"Prototypes\", \n                        \"Scientific computing\"\n                    ]\n                }, \n                \"pubtitle\": \"Parallel and Distributed Processing Symposium, 2005. Proceedings. 19th IEEE International\", \n                \"punumber\": \"9722\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2005\", \n                \"spage\": \"186a\", \n                \"epage\": \"186a\", \n                \"abstract\": \"One of the most important issues in Grid computing is to provide a secure environment that allows administrators to contribute their resources and users to utilize them. Currently diverse methods are required to obtain certificates for the different Grids. In this paper we showcase a prototype of a tool that simplifies the tasks associated with maintaining a Grid certificate authority and simplifies the application process for the user to interact with multiple certificate authorities.\", \n                \"isbn\": \"0-7695-2312-9\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1420071\", \n                \"doi\": \"10.1109/IPDPS.2005.29\", \n                \"publicationId\": \"1420071\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1420071&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1420071\"\n            }, \n            {\n                \"rank\": \"2\", \n                \"title\": \"Design of the FutureGrid experiment management framework\", \n                \"authors\": \"von Laszewski, G.;  Fox, G.C.;  Fugang Wang;  Younge, A.J.;  Kulshrestha, A.;  Pike, G.G.;  Smith, W.;  Vo&#x0308; ckler, J.;  Figueiredo, R.J.;  Fortes, J.;  Keahey, K.\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"cloud computing\", \n                        \"grid computing\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Clouds\", \n                        \"Communities\", \n                        \"Dynamic scheduling\", \n                        \"Hardware\", \n                        \"Home appliances\", \n                        \"Middleware\", \n                        \"Software\"\n                    ]\n                }, \n                \"pubtitle\": \"Gateway Computing Environments Workshop (GCE), 2010\", \n                \"punumber\": \"5668967\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2010\", \n                \"spage\": \"1\", \n                \"epage\": \"10\", \n                \"abstract\": \"FutureGrid provides novel computing capabilities that enable reproducible experiments while simultaneously supporting dynamic provisioning. This paper describes the FutureGrid experiment management framework to create and execute large scale scientific experiments for researchers around the globe. The experiments executed are performed by the various users of FutureGrid ranging from administrators to software developers and end users. The Experiment management framework will consist of software tools that record user and system actions to generate a reproducible set of tasks and resource configurations. Additionally, the experiment management framework can be used to share not only the experiment setup, but also performance information for the specific instantiation of the experiment. This makes it possible to compare a variety of experiment setups and analyze the impact Grid and Cloud software stacks have.\", \n                \"issn\": \"2152-1085\", \n                \"isbn\": \"978-1-4244-9751-5\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5676126\", \n                \"doi\": \"10.1109/GCE.2010.5676126\", \n                \"publicationId\": \"5676126\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5676126&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5676126\"\n            }, \n            {\n                \"rank\": \"3\", \n                \"title\": \"Comparison of Multiple Cloud Frameworks\", \n                \"authors\": \"von Laszewski, G.;  Diaz, J.;  Fugang Wang;  Fox, G.C.\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": \"cloud computing\"\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Cloud computing\", \n                        \"Clouds\", \n                        \"Communities\", \n                        \"Educational institutions\", \n                        \"Scalability\", \n                        \"Servers\"\n                    ]\n                }, \n                \"pubtitle\": \"Cloud Computing (CLOUD), 2012 IEEE 5th International Conference on\", \n                \"punumber\": \"6253102\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2012\", \n                \"spage\": \"734\", \n                \"epage\": \"741\", \n                \"abstract\": \"Today, many cloud Infrastructure as a Service(IaaS) frameworks exist. Users, developers, and administrators have to make a decision about which environment is best suited for them. Unfortunately, the comparison of such frameworks is difficult because either users do not have access to all of them or they are comparing the performance of such systems on different resources, which make it difficult to obtain objective comparisons. Hence, the community benefits from the availability of a testbed on which comparisons between the IaaS frameworks can be conducted. FutureGrid aims to offer a number of IaaS including Nimbus, Eucalyptus, OpenStack, and OpenNebula. One of the important features that FutureGrid provides is not only the ability to compare between IaaS frameworks, but also to compare them in regards to bare-metal and traditional high performance computing services. In this paper, we outline some of our initial findings by providing such a testbed. As one of our conclusions, we also present our work on making access to the various infrastructures on FutureGrid easier.\", \n                \"issn\": \"2159-6182\", \n                \"isbn\": \"978-1-4673-2892-0\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"6253573\", \n                \"doi\": \"10.1109/CLOUD.2012.104\", \n                \"publicationId\": \"6253573\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6253573&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6253573\"\n            }, \n            {\n                \"rank\": \"4\", \n                \"title\": \"Power-aware scheduling of virtual machines in DVFS-enabled clusters\", \n                \"authors\": \"von Laszewski, G.;  Lizhe Wang;  Younge, A.J.;  Xi He\", \n                \"affiliations\": \"Service Oriented Cyberinfrastructure Lab., Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"microprocessor chips\", \n                        \"power aware computing\", \n                        \"processor scheduling\", \n                        \"supervisory programs\", \n                        \"virtual machines\", \n                        \"workstation clusters\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Algorithm design and analysis\", \n                        \"Cloud computing\", \n                        \"Dynamic voltage scaling\", \n                        \"Energy consumption\", \n                        \"High performance computing\", \n                        \"Job shop scheduling\", \n                        \"Large-scale systems\", \n                        \"Processor scheduling\", \n                        \"Scheduling algorithm\", \n                        \"Virtual machining\"\n                    ]\n                }, \n                \"pubtitle\": \"Cluster Computing and Workshops, 2009. CLUSTER '09. IEEE International Conference on\", \n                \"punumber\": \"5281774\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2009\", \n                \"spage\": \"1\", \n                \"epage\": \"10\", \n                \"abstract\": \"With the advent of Cloud computing, large-scale virtualized compute and data centers are becoming common in the computing industry. These distributed systems leverage commodity server hardware in mass quantity, similar in theory to many of the fastest Supercomputers in existence today. However these systems can consume a cities worth of power just to run idle, and require equally massive cooling systems to keep the servers within normal operating temperatures. This produces CO<sub>2</sub> emissions and significantly contributes to the growing environmental issue of Global Warming. Green computing, a new trend for high-end computing, attempts to alleviate this problem by delivering both high performance and reduced power consumption, effectively maximizing total system efficiency. This paper focuses on scheduling virtual machines in a compute cluster to reduce power consumption via the technique of Dynamic Voltage Frequency Scaling (DVFS). Specifically, we present the design and implementation of an efficient scheduling algorithm to allocate virtual machines in a DVFS-enabled cluster by dynamically scaling the supplied voltages. The algorithm is studied via simulation and implementation in a multi-core cluster. Test results and performance discussion justify the design and implementation of the scheduling algorithm.\", \n                \"issn\": \"1552-5244\", \n                \"isbn\": \"978-1-4244-5011-4\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5289182\", \n                \"doi\": \"10.1109/CLUSTR.2009.5289182\", \n                \"publicationId\": \"5289182\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5289182&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5289182\"\n            }, \n            {\n                \"rank\": \"5\", \n                \"title\": \"e-Science Project and Experiment Management with Microsoft Project\", \n                \"authors\": \"von Laszewski, G.;  Dilmanian, L.E.\", \n                \"affiliations\": \"Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"grid computing\", \n                        \"project management\", \n                        \"software tools\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Costs\", \n                        \"Engines\", \n                        \"Grid computing\", \n                        \"Instruments\", \n                        \"Monitoring\", \n                        \"Project management\", \n                        \"Prototypes\", \n                        \"Quality of service\", \n                        \"Software packages\", \n                        \"Technology management\"\n                    ]\n                }, \n                \"pubtitle\": \"Grid Computing Environments Workshop, 2008. GCE '08\", \n                \"punumber\": \"4729055\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2008\", \n                \"spage\": \"1\", \n                \"epage\": \"8\", \n                \"abstract\": \"The design, execution, and monitoring of challenging scientific applications is often a complex affair. To cope with the issue, several tools and frameworks have been designed and put into use. However, the entry barrier to using these tools productively is high, and may hinder the progress of many scientists or non-experts that develop workflows infrequently. As part of the Cyberaide framework, a workflow tool called grid manager had been developed and integrated using the Microsoft Project software package as an elementary component. The advantages of using such a tool are discussed in this paper. Microsoft project is a user friendly project management tool that is being used in a new context. It is being used to design and monitor the execution of grid based projects. The motivation for this choice is that many scientists are already familiar with Microsoft project. Grid Manager enables seamless access to and execution over computational Grids, such as the NSF sponsored TeraGrid. Our framework also allows integration with other resources, including Microsoft Windows HPC Server 2008 (HPC) clusters. We test our hypothesis of usability while evaluating the tool as part of several graduate level courses taught in the field of grid and cloud computing.\", \n                \"isbn\": \"978-1-4244-2860-1\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"4738449\", \n                \"doi\": \"10.1109/GCE.2008.4738449\", \n                \"publicationId\": \"4738449\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4738449&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4738449\"\n            }, \n            {\n                \"rank\": \"6\", \n                \"title\": \"Experiment and Workflow Management Using Cyberaide Shell\", \n                \"authors\": \"von Laszewski, G.;  Younge, A.;  Xi He;  Mahinthakumar, K.;  Lizhe Wang\", \n                \"affiliations\": \"Service Oriented Cyberinfrastracture Lab., Rochester Inst. of Technol., Rochester, NY\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"application program interfaces\", \n                        \"grid computing\", \n                        \"middleware\", \n                        \"natural sciences computing\", \n                        \"workflow management software\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Energy management\", \n                        \"Environmental management\", \n                        \"Grid computing\", \n                        \"Middleware\", \n                        \"Operating systems\", \n                        \"Resource management\", \n                        \"Technology management\", \n                        \"USA Councils\", \n                        \"Usability\", \n                        \"Utility programs\"\n                    ]\n                }, \n                \"pubtitle\": \"Cluster Computing and the Grid, 2009. CCGRID '09. 9th IEEE/ACM International Symposium on\", \n                \"punumber\": \"5071832\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2009\", \n                \"spage\": \"568\", \n                \"epage\": \"573\", \n                \"abstract\": \"In recent years the power of Grid computing has grown exponentially through the development of advanced middleware systems. While usage has increased, the penetration of Grid computing in the scientific community has been less than expected by some. This is due to a steep learning curve and high entry barrier that limit the use of Grid computing and advanced cyberinfrastructure. In order for the scientists to focus on actual scientific tasks, specialized tools and services need to be developed to ease the integration of complex middleware. Our solution is Cyberaide Shell, an advanced but simple to use systemshell which provides access to the powerful cyberinfrastructure available today. Cyberaide Shell provides a dynamic interface that allows access to complex cyberinfrastructure in an easy and intuitive fashion on an ad-hoc basis. This is accomplished by abstracting the complexities of resource, task, and application management through a scriptable command line interface. Through a service integration mechanism, the shellpsilas functionality is exposed to a wide variety of frameworks and programming languages. Cyberaide Shell includes specialized experiment management and workflow commands that, with the scriptable nature of a shell, provide a set of services which where previously unavailable. The usability of Cyberaide Shell is demonstrated using a Water Threat Management application deployed on the TeraGrid.\", \n                \"isbn\": \"978-1-4244-3935-5\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5071923\", \n                \"doi\": \"10.1109/CCGRID.2009.66\", \n                \"publicationId\": \"5071923\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5071923&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5071923\"\n            }, \n            {\n                \"rank\": \"7\", \n                \"title\": \"Provide Virtual Machine Information for Grid Computing\", \n                \"authors\": \"Lizhe Wang;  von Laszewski, G.;  Dan Chen;  Jie Tao;  Kunze, M.\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Java\", \n                        \"distributed processing\", \n                        \"grid computing\", \n                        \"information retrieval\", \n                        \"information services\", \n                        \"software agents\", \n                        \"software engineering\", \n                        \"virtual machines\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Application software\", \n                        \"Collision mitigation\", \n                        \"Computational modeling\", \n                        \"Computer architecture\", \n                        \"Computer integrated manufacturing\", \n                        \"Distributed computing\", \n                        \"Geographic Information Systems\", \n                        \"Grid computing\", \n                        \"Information retrieval\", \n                        \"Monitoring\", \n                        \"Operating systems\", \n                        \"Runtime environment\", \n                        \"Servers\", \n                        \"Software libraries\", \n                        \"Virtual machining\"\n                    ]\n                }, \n                \"pubtitle\": \"Systems, Man and Cybernetics, Part A: Systems and Humans, IEEE Transactions on\", \n                \"punumber\": \"3468\", \n                \"pubtype\": \"Journals & Magazines\", \n                \"publisher\": \"IEEE\", \n                \"volume\": \"40\", \n                \"issue\": \"6\", \n                \"py\": \"2010\", \n                \"spage\": \"1362\", \n                \"epage\": \"1374\", \n                \"abstract\": \"Distributed virtual machines can help to build scalable, manageable, and efficient grid infrastructures. The work proposed in this paper focuses on employing virtual machines for grid computing. In order to efficiently run grid applications, virtual machine resource information should be provided. This paper first discusses the system architecture of virtual machine pools and the process of information retrieval from virtual machines. Based on the characterization of the system model, this paper presents the work on how to retrieve resource information from Xen/VMware virtual machines via VMware Common Information Model Software Development Kit and lightweight Java agents. The resource information is integrated into a grid information service. The work is implemented in a test bed with Xen/VMware virtual machines and the Globus Toolkit. With a performance evaluation and discussion on a real test bed, it is declared that the design and implementation of information services for virtual-machine-based grid systems are feasible, efficient, and scalable.\", \n                \"issn\": \"1083-4427\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5546997\", \n                \"doi\": \"10.1109/TSMCA.2010.2052598\", \n                \"publicationId\": \"5546997\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5546997&contentType=Journals+%26+Magazines\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5546997\"\n            }, \n            {\n                \"rank\": \"8\", \n                \"title\": \"Efficient resource management for Cloud computing environments\", \n                \"authors\": \"Younge, A.J.;  von Laszewski, G.;  Lizhe Wang;  Lopez-Alarcon, S.;  Carithers, W.\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"distributed processing\", \n                        \"environmental factors\", \n                        \"power aware computing\", \n                        \"resource allocation\", \n                        \"software architecture\", \n                        \"virtual machines\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Hardware\", \n                        \"Virtual machining\"\n                    ]\n                }, \n                \"pubtitle\": \"Green Computing Conference, 2010 International\", \n                \"punumber\": \"5586929\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2010\", \n                \"spage\": \"357\", \n                \"epage\": \"364\", \n                \"abstract\": \"The notion of Cloud computing has not only reshaped the field of distributed systems but also fundamentally changed how businesses utilize computing today. While Cloud computing provides many advanced features, it still has some shortcomings such as the relatively high operating cost for both public and private Clouds. The area of Green computing is also becoming increasingly important in a world with limited energy resources and an ever-rising demand for more computational power. In this paper a new framework is presented that provides efficient green enhancements within a scalable Cloud computing architecture. Using power-aware scheduling techniques, variable resource management, live migration, and a minimal virtual machine design, overall system efficiency will be vastly improved in a data center based Cloud with minimal performance overhead.\", \n                \"isbn\": \"978-1-4244-7612-1\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5598294\", \n                \"doi\": \"10.1109/GREENCOMP.2010.5598294\", \n                \"publicationId\": \"5598294\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5598294&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5598294\"\n            }, \n            {\n                \"rank\": \"9\", \n                \"title\": \"Towards Thermal Aware Workload Scheduling in a Data Center\", \n                \"authors\": \"Lizhe Wang;  von Laszewski, G.;  Dayal, J.;  Xi He;  Younge, A.J.;  Furlani, T.R.\", \n                \"affiliations\": \"Service Oriented Cyberinfrastructure Lab., Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"computer centres\", \n                        \"cooling\", \n                        \"power consumption\", \n                        \"power engineering computing\", \n                        \"scheduling\", \n                        \"software maintenance\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Computational fluid dynamics\", \n                        \"Computational modeling\", \n                        \"Cooling\", \n                        \"Costs\", \n                        \"Energy consumption\", \n                        \"Heat transfer\", \n                        \"Processor scheduling\", \n                        \"Scheduling algorithm\", \n                        \"Temperature\", \n                        \"Thermal management\"\n                    ]\n                }, \n                \"pubtitle\": \"Pervasive Systems, Algorithms, and Networks (ISPAN), 2009 10th International Symposium on\", \n                \"punumber\": \"5379703\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2009\", \n                \"spage\": \"116\", \n                \"epage\": \"122\", \n                \"abstract\": \"High density blade servers are a popular technology for data centers, however, the heat dissipation density of data centers increases exponentially. There is strong evidence to support that high temperatures of such data centers will lead to higher hardware failure rates and thus an increase in maintenance costs. Improperly designed or operated data centers may either suffer from overheated servers and potential system failures, or from overcooled systems, causing extraneous utilities cost. Minimizing the cost of operation (utilities, maintenance, device upgrade and replacement) of data centers is one of the key issues involved with both optimizing computing resources and maximizing business outcome. This paper proposes an analytical model, which describes data center resources with heat transfer properties and workloads with thermal features. Then a thermal aware task scheduling algorithm is presented which aims to reduce power consumption and temperatures in a data center. A simulation study is carried out to evaluate the performance of the algorithm. Simulation results show that our algorithm can significantly reduce temperatures in data centers by introducing endurable decline in performance.\", \n                \"isbn\": \"978-1-4244-5403-7\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5381947\", \n                \"doi\": \"10.1109/I-SPAN.2009.22\", \n                \"publicationId\": \"5381947\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5381947&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5381947\"\n            }, \n            {\n                \"rank\": \"10\", \n                \"title\": \"Quality Assured Ad Hoc Grids\", \n                \"authors\": \"Amin, K.;  von Laszewski, G.;  Mikler, A.R.\", \n                \"affiliations\": \"University of North Texas\", \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Availability\", \n                        \"Centralized control\", \n                        \"Collaboration\", \n                        \"Distributed control\", \n                        \"Electronic switching systems\", \n                        \"Environmental management\", \n                        \"Grid computing\", \n                        \"Java\", \n                        \"Quality of service\", \n                        \"Resource management\"\n                    ]\n                }, \n                \"pubtitle\": \"Autonomic and Autonomous Systems and International Conference on Networking and Services, 2005. ICAS-ICNS 2005. Joint International Conference on\", \n                \"punumber\": \"10434\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2005\", \n                \"spage\": \"92\", \n                \"epage\": \"92\", \n                \"abstract\": \"This paper presents an integrated architecture for ad hoc Grids developed within the Java CoG Kit project. It provides an overview of the key component frameworks that collectively build the ad hoc Grid architecture. Further, it outlines a formal model that can be formally evaluated. The paper also presents an enhancement to the Java CoG Kit to address requirements posed by ad hoc Grids. It integrates into the Java CoG Kit commodity technologies such as Jxta, and ClassAds.\", \n                \"isbn\": \"0-7695-2450-8\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1559944\", \n                \"doi\": \"10.1109/ICAS-ICNS.2005.82\", \n                \"publicationId\": \"1559944\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1559944&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1559944\"\n            }, \n            {\n                \"rank\": \"11\", \n                \"title\": \"A Repository Service for Grid Workflow Components\", \n                \"authors\": \"von Laszewski, G.;  Kodeboyina, D.\", \n                \"affiliations\": \"Argonne Nat. Lab., IL\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Java\", \n                        \"ad hoc networks\", \n                        \"grid computing\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Availability\", \n                        \"Buildings\", \n                        \"Collaborative work\", \n                        \"Conference management\", \n                        \"Independent component analysis\", \n                        \"Java\", \n                        \"Libraries\", \n                        \"Network servers\", \n                        \"Peer to peer computing\", \n                        \"Runtime\"\n                    ]\n                }, \n                \"pubtitle\": \"Autonomic and Autonomous Systems and International Conference on Networking and Services, 2005. ICAS-ICNS 2005. Joint International Conference on\", \n                \"punumber\": \"10434\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2005\", \n                \"spage\": \"84\", \n                \"epage\": \"84\", \n                \"abstract\": \"As part of the Java CoG kit we have defined a sophisticated workflow framework. This workflow framework projects an integrated approach towards executing tasks in grid and non-grid environments. One of the services needed is a convenient service to store, retrieve, and modify workflow components defined by the community similar to systems such as the comprehensive perl archive network. The availability of such a service will not only allow the definition of components useful for the greater grid community, but it will also be possible that it can be reused to support dynamically changing workflows managed by collaborative groups. In this paper, we present a simple extensible framework to design, build, and deploy a workflow repository service. This repository is intended to be used in ad-hoc grids or in community grids\", \n                \"isbn\": \"0-7695-2450-8\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1559936\", \n                \"doi\": \"10.1109/ICAS-ICNS.2005.8\", \n                \"publicationId\": \"1559936\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1559936&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1559936\"\n            }, \n            {\n                \"rank\": \"12\", \n                \"title\": \"Power Aware Scheduling for Parallel Tasks via Task Clustering\", \n                \"authors\": \"Lizhe Wang;  Jie Tao;  von Laszewski, G.;  Dan Chen\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"energy consumption\", \n                        \"parallel processing\", \n                        \"power aware computing\", \n                        \"scheduling\", \n                        \"simulation\", \n                        \"task analysis\"\n                    ]\n                }, \n                \"pubtitle\": \"Parallel and Distributed Systems (ICPADS), 2010 IEEE 16th International Conference on\", \n                \"punumber\": \"5692856\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2010\", \n                \"spage\": \"629\", \n                \"epage\": \"634\", \n                \"abstract\": \"It has been widely known that various benefits can be achieved by reducing energy consumption for high end computing. This paper aims to develop power aware scheduling heuristics for parallel tasks in a cluster with the DVFS technique. In this paper, formal models are presented for precedence-constrained parallel tasks, DVFS enabled clusters, and energy consumption. This paper studies the slack time for non-critical jobs, extends their execution time and reduces the energy consumption without increasing the task's execution time as a whole. This paper develops a power aware task clustering algorithm for parallel task scheduling Simulation results justify the design and implementation of proposed energy aware scheduling heuristics in the paper.\", \n                \"issn\": \"1521-9097\", \n                \"isbn\": \"978-1-4244-9727-0\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5695657\", \n                \"doi\": \"10.1109/ICPADS.2010.128\", \n                \"publicationId\": \"5695657\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5695657&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5695657\"\n            }, \n            {\n                \"rank\": \"13\", \n                \"title\": \"A fault detection service for wide area distributed computations\", \n                \"authors\": \"Stelling, P.;  Foster, I.;  Kesselman, C.;  Lee, C.;  von Laszewski, G.\", \n                \"affiliations\": \"Aerosp. Corp., El Segundo, CA, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"computer network reliability\", \n                        \"fault diagnosis\", \n                        \"system monitoring\", \n                        \"wide area networks\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Application software\", \n                        \"Computer networks\", \n                        \"Computer science\", \n                        \"Costs\", \n                        \"Distributed computing\", \n                        \"Fault detection\", \n                        \"Grid computing\", \n                        \"Laboratories\", \n                        \"Mathematics\", \n                        \"Resource management\"\n                    ]\n                }, \n                \"pubtitle\": \"High Performance Distributed Computing, 1998. Proceedings. The Seventh International Symposium on\", \n                \"punumber\": \"5737\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"1998\", \n                \"spage\": \"268\", \n                \"epage\": \"278\", \n                \"abstract\": \"The potential for faults in distributed computing systems is a significant complicating factor for application developers. While a variety of techniques exist for detecting and correcting faults, the implementation of these techniques in a particular context can be difficult. Hence, we propose a fault detection service designed to be incorporated, in a modular fashion, into distributed computing systems, tools, or applications. This service uses well-known techniques based on unreliable fault detectors to detect and report component failure, while allowing the user to tradeoff timeliness of reporting against false positive rates. We describe the architecture of this service, report on experimental results that quantify its cost and accuracy, and describe its use in two applications, monitoring the status of system components of the GUSTO computational grid testbed and as part of the NetSolve network-enabled numerical solver\", \n                \"issn\": \"1082-8907\", \n                \"isbn\": \"0-8186-8579-4\", \n                \"arnumber\": \"709981\", \n                \"doi\": \"10.1109/HPDC.1998.709981\", \n                \"publicationId\": \"709981\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=709981&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=709981\"\n            }, \n            {\n                \"rank\": \"14\", \n                \"title\": \"FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images\", \n                \"authors\": \"Diaz, J.;  von Laszewski, G.;  Fugang Wang;  Younge, A.J.;  Fox, G.\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"cloud computing\", \n                        \"grid computing\", \n                        \"meta data\", \n                        \"operating systems (computers)\", \n                        \"storage management\", \n                        \"virtual machines\", \n                        \"virtualisation\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Catalogs\", \n                        \"Clouds\", \n                        \"Fault tolerance\", \n                        \"Fault tolerant systems\", \n                        \"Portals\", \n                        \"Security\", \n                        \"Software\"\n                    ]\n                }, \n                \"pubtitle\": \"Cloud Computing Technology and Science (CloudCom), 2011 IEEE Third International Conference on\", \n                \"punumber\": \"6132468\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2011\", \n                \"spage\": \"560\", \n                \"epage\": \"564\", \n                \"abstract\": \"Future Grid (FG) is an experimental, high-performance test bed that supports HPC, cloud and grid computing experiments for both application and computer scientist. Future Grid includes the use of virtualization technology to allow the support of a wide range of operating systems in order to include a test bed for various cloud computing infrastructure as a service frameworks. Therefore, efficient management of a variety of virtual machine images becomes a key issue. Current cloud frameworks do not provide a way to manage images for different IaaS frameworks. They typically provide their own image repositories, but in general they do not allow us to store the needed metadata to handle other IaaS images. We present a generic catalog and image repository to store images of any type. Our image repository has a convenient interface that distinguishes image types. Therefore, it is not only useful for Future Grid, but also for any application that needs to manage images.\", \n                \"isbn\": \"978-1-4673-0090-2\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"6133194\", \n                \"doi\": \"10.1109/CloudCom.2011.85\", \n                \"publicationId\": \"6133194\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6133194&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6133194\"\n            }, \n            {\n                \"rank\": \"15\", \n                \"title\": \"Grid Virtualization Engine: Design, Implementation, and Evaluation\", \n                \"authors\": \"Lizhe Wang;  von Laszewski, G.;  Jie Tao;  Kunze, M.\", \n                \"affiliations\": \"Service Oriented Cyberinfrastructure Lab., Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Web services\", \n                        \"cybernetics\", \n                        \"grid computing\", \n                        \"quality of service\", \n                        \"virtual machines\"\n                    ]\n                }, \n                \"pubtitle\": \"Systems Journal, IEEE\", \n                \"punumber\": \"4267003\", \n                \"pubtype\": \"Journals & Magazines\", \n                \"publisher\": \"IEEE\", \n                \"volume\": \"3\", \n                \"issue\": \"4\", \n                \"py\": \"2009\", \n                \"spage\": \"477\", \n                \"epage\": \"488\", \n                \"abstract\": \"Virtual machines offer various advantages such as easy configuration, management, development and deployment of computing resources for cyberinfrastructures. Recent advances of employing virtual machines for Grid computing can help Grid communities to solve research issues, for example, qualities of service (QoS) provision and computing environment customization. The heterogeneous virtualization implementations, however, bring challenges for employing virtual machine as computing resources to build Grid infrastructures. The work proposed in this paper focuses on building a Web service based virtual machine provider for Grid infrastructures. The Grid Virtualization Engine (GVE) creates an abstract layer between users and underlying virtualization technologies. It implements a scalable distributed architecture in a hierarchical flavor. The GVE Site Service provides Web service interfaces for users to operate virtual machines, thereafter building Grid infrastructures. The underlying GVE Agent Service talks with different virtualization products inside the computing center and provides virtual machine resources to the GVE Site Service. The GVE is designed and implemented with the state of the arts of distributed computing technologies: Web service and Grid standards. The GVE is evaluated with CMS benchmark, a high-energy physics application from CERN. In addition to the GVE design and implementation, this paper also uses a real example to illustrate how to apply the GVE to build an e-Science infrastructure at runtime. By providing experiments, tests, and a use scenario, we show the GVE is an efficient and lightweight middleware for building grid infrastructures with virtual machines.\", \n                \"issn\": \"1932-8184\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5291719\", \n                \"doi\": \"10.1109/JSYST.2009.2028589\", \n                \"publicationId\": \"5291719\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5291719&contentType=Journals+%26+Magazines\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5291719\"\n            }, \n            {\n                \"rank\": \"16\", \n                \"title\": \"Abstracting the Grid\", \n                \"authors\": \"Arnin, K.;  Hategan, M.;  von Laszewski, G.;  Zaluzec, N.J.\", \n                \"affiliations\": \"Argonne Nat. Lab., IL, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"grid computing\", \n                        \"open systems\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Application software\", \n                        \"Collaboration\", \n                        \"Computer architecture\", \n                        \"Data structures\", \n                        \"Grid computing\", \n                        \"Service oriented architecture\", \n                        \"Standardization\", \n                        \"Standards development\", \n                        \"User interfaces\", \n                        \"Web services\"\n                    ]\n                }, \n                \"pubtitle\": \"Parallel, Distributed and Network-Based Processing, 2004. Proceedings. 12th Euromicro Conference on\", \n                \"punumber\": \"8971\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2004\", \n                \"spage\": \"250\", \n                \"epage\": \"257\", \n                \"abstract\": \"The Grid approach allows collaborative pooling of distributed resources across multiple domains. However, the benefits of the Grid are limited to those offered by the commodity application development framework used. Several elegant and flexible application development frameworks support only specific Grid architectures, thereby not allowing the applications to exploit the full potential of the Grid. In order to initiate community interest to standardize a high-level abstraction layer for different Grid architectures, we introduce a collection of abstractions and data structures that collectively build a basis for an open Grid computing environment.\", \n                \"issn\": \"1066-6192\", \n                \"isbn\": \"0-7695-2083-9\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1271452\", \n                \"doi\": \"10.1109/EMPDP.2004.1271452\", \n                \"publicationId\": \"1271452\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1271452&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1271452\"\n            }, \n            {\n                \"rank\": \"17\", \n                \"title\": \"Schedule Distributed Virtual Machines in a Service Oriented Environment\", \n                \"authors\": \"Lizhe Wang;  von Laszewski, G.;  Kunze, M.;  Jie Tao\", \n                \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Web services\", \n                        \"quality of service\", \n                        \"scheduling\", \n                        \"software architecture\", \n                        \"virtual machines\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Condition monitoring\", \n                        \"Distributed computing\", \n                        \"Processor scheduling\", \n                        \"Resource management\", \n                        \"Scheduling algorithm\", \n                        \"Scientific computing\", \n                        \"Semiconductor optical amplifiers\", \n                        \"Service oriented architecture\", \n                        \"Virtual machine monitors\", \n                        \"Virtual machining\"\n                    ]\n                }, \n                \"pubtitle\": \"Advanced Information Networking and Applications (AINA), 2010 24th IEEE International Conference on\", \n                \"punumber\": \"5473893\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2010\", \n                \"spage\": \"230\", \n                \"epage\": \"236\", \n                \"abstract\": \"Virtual machines offer unique advantages to the scientific computing community, such as Quality of Service(QoS) guarantee, performance isolation, easy resource management, and the on-demand deployment of computing environments. Using virtual machines as a computing resource within a distributed environment, such as Service Oriented Architecture (SOA), creates a variety of new issues and challenges that must be overcome. Traditionally, parallel task scheduling algorithms only focus on handling CPU resources. Using of a virtual machine, however, requires the monitoring and management of additional resource properties. Additionally, CPU, memory, storage, and software licenses must also be considered within the scheduling algorithm. The objective of this paper is to address these challenges of a multi-dimensional scheduling algorithm for virtual machines within a SOA. To do this, we deploy a testbed SOA environment composed of virtual machines which are capable of being registered, indexed, allocated, accessed, and controlled by our new parallel task scheduling algorithm.\", \n                \"issn\": \"1550-445X\", \n                \"isbn\": \"978-1-4244-6695-5\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5474704\", \n                \"doi\": \"10.1109/AINA.2010.47\", \n                \"publicationId\": \"5474704\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5474704&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5474704\"\n            }, \n            {\n                \"rank\": \"18\", \n                \"title\": \"Cyberaide Creative: On-Demand Cyberinfrastructure Provision in Clouds\", \n                \"authors\": \"Rathbone, C.;  Lizhe Wang;  von Laszewski, G.;  Fugang Wang\", \n                \"affiliations\": \"Service Oriented Cyberinfrastrature Lab., Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"grid computing\", \n                        \"middleware\", \n                        \"user interfaces\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Cloud computing\", \n                        \"Computer interfaces\", \n                        \"Computer networks\", \n                        \"Grid computing\", \n                        \"Hardware\", \n                        \"Middleware\", \n                        \"Pervasive computing\", \n                        \"Resource virtualization\", \n                        \"Software algorithms\", \n                        \"System software\"\n                    ]\n                }, \n                \"pubtitle\": \"Pervasive Systems, Algorithms, and Networks (ISPAN), 2009 10th International Symposium on\", \n                \"punumber\": \"5379703\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2009\", \n                \"spage\": \"684\", \n                \"epage\": \"690\", \n                \"abstract\": \"As demand for grid and cloud computing solutions increases, the need for user oriented software to provide access to theses resources also increases. Until recently the use of computing resources was limited to those with exceptional knowledge of the system design and configuration. With the advent of grid middleware projects this started to change allowing for new users not familiar with the complex grid infrastructure and client software to use the systems for their own research. The Cyberaide Gridshell demonstrated this by developing a user friendly interface to submit jobs to a grid. Following this theme it is our objective to create a tool that will take another step further by abstracting the creation and configuration of the infrastructure and system software away from the end-user. This will be achieved through the use of cloud resources provided by VMware virtualization and deployment via a web interface. We will show the benefits of deploying cyber infrastructures, like clusters and grids, on a cloud design by demonstrating the ease of cyber infrastructure deployment and the versatility of the systems that can be spawned on demand.\", \n                \"isbn\": \"978-1-4244-5403-7\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5381699\", \n                \"doi\": \"10.1109/I-SPAN.2009.23\", \n                \"publicationId\": \"5381699\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5381699&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5381699\"\n            }, \n            {\n                \"rank\": \"19\", \n                \"title\": \"QoS support for high-performance scientific Grid applications\", \n                \"authors\": \"Al-Ali, R.;  von Laszewski, G.;  Amin, K.;  Hategan, M.;  Rana, O.;  Walker, D.;  Zaluzec, N.\", \n                \"affiliations\": \"Argonne Nat. Lab., IL, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"grid computing\", \n                        \"groupware\", \n                        \"natural sciences computing\", \n                        \"quality of service\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Collaboration\", \n                        \"Data visualization\", \n                        \"Electron microscopy\", \n                        \"Environmental management\", \n                        \"Laboratories\", \n                        \"Prototypes\", \n                        \"Quality management\", \n                        \"Quality of service\", \n                        \"Resource management\", \n                        \"Scheduling\"\n                    ]\n                }, \n                \"pubtitle\": \"Cluster Computing and the Grid, 2004. CCGrid 2004. IEEE International Symposium on\", \n                \"punumber\": \"9282\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2004\", \n                \"spage\": \"134\", \n                \"epage\": \"143\", \n                \"abstract\": \"The Grid approach provides the ability to access and use distributed resources as part of virtual organizations. The emerging Grid infrastructure gives rise to a class of scientific applications and services to support collaborative and distributed resource-sharing requirements as part of teleimmersion, visualization, and simulation services. Because such applications operate in a collaborative mode, data must be stored and delivered in timely manner to meet deadlines. Hence, this class of applications has stringent real-time constraints and quality-of-service (QoS) requirements. A QoS management approach is required to orchestrate and guarantee the interaction between such applications and services. In this paper we discuss the design and prototype implementation of a QoS system and show how we enable Grid applications to become QoS compliant. We validate this approach through a case study of nanomaterials. Our approach enhances the current Open Grid Services Architecture. We demonstrate the usefulness of the approach on a nanomaterials application.\", \n                \"isbn\": \"0-7803-8430-X\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1336559\", \n                \"doi\": \"10.1109/CCGrid.2004.1336559\", \n                \"publicationId\": \"1336559\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1336559&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1336559\"\n            }, \n            {\n                \"rank\": \"20\", \n                \"title\": \"A greedy grid - the grid economic engine directive\", \n                \"authors\": \"Vazhkudai, S.;  von Laszewski, G.\", \n                \"affiliations\": \"The University of Mississippi\", \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Engines\", \n                        \"Variable speed drives\"\n                    ]\n                }, \n                \"pubtitle\": \"Parallel and Distributed Processing Symposium., Proceedings 15th International\", \n                \"punumber\": \"7373\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2001\", \n                \"spage\": \"1806\", \n                \"epage\": \"1815\", \n                \"abstract\": \"<div style=\\\"font-variant: small-caps; font-size: .9em;\\\">First Page of the Article</div><img class=\\\"img-abs-container\\\" style=\\\"width: 95%; border: 1px solid #808080;\\\" src=\\\"/xploreAssets/images/absImages/00925170.png\\\" border=\\\"0\\\">\", \n                \"issn\": \"1530-2075\", \n                \"isbn\": \"0-7695-0990-8\", \n                \"arnumber\": \"925170\", \n                \"doi\": \"10.1109/IPDPS.2001.925170\", \n                \"publicationId\": \"925170\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=925170&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=925170\"\n            }, \n            {\n                \"rank\": \"21\", \n                \"title\": \"Flexible framework for commodity FPGA cluster computing\", \n                \"authors\": \"Espenshade, J.;  Lukowiak, M.;  Shaaban, M.;  von Laszewski, G.\", \n                \"affiliations\": \"Dept. of Comput. Eng., Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"field programmable gate arrays\", \n                        \"hardware-software codesign\", \n                        \"message passing\", \n                        \"parallel programming\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Application software\", \n                        \"Costs\", \n                        \"Energy management\", \n                        \"Field programmable gate arrays\", \n                        \"Hardware\", \n                        \"High performance computing\", \n                        \"Linux\", \n                        \"Software tools\", \n                        \"Standards development\", \n                        \"Technology management\"\n                    ]\n                }, \n                \"pubtitle\": \"Field-Programmable Technology, 2009. FPT 2009. International Conference on\", \n                \"punumber\": \"5367680\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2009\", \n                \"spage\": \"465\", \n                \"epage\": \"471\", \n                \"abstract\": \"With falling costs and successful demonstrations of performance, FPGAs have become a prime candidate for use in high performance computing. However, the use of FPGA technology in clustered environments has largely been limited to commercial and/or proprietary designs that require developers to learn new programming models and software tools. In this paper, a framework is presented which enables development of parallel programs across application-specific reconfigurable hardware using simple hardware interface abstractions and standard MPI application structure. This approach leverages commodity technologies including embedded Linux running on hardwired PowerPC processors to manage communication such that each hardware acceleration unit can function as a fully MPI-2 compatible node. The implied hardware/software design and programming model are discussed and an application case study is presented to demonstrate functionality and elucidate platform benefits through performance analysis.\", \n                \"isbn\": \"978-1-4244-4375-8\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"5377649\", \n                \"doi\": \"10.1109/FPT.2009.5377649\", \n                \"publicationId\": \"5377649\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5377649&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5377649\"\n            }, \n            {\n                \"rank\": \"22\", \n                \"title\": \"Ad hoc grid security infrastructure\", \n                \"authors\": \"Amin, K.;  von Laszewski, G.;  Sosonkin, M.;  Mikler, A.R.;  Hategan, M.\", \n                \"affiliations\": \"Math. & Comput. Sci. Div., Argonne Nat. Lab., IL, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Java\", \n                        \"XML\", \n                        \"authorisation\", \n                        \"grid computing\", \n                        \"groupware\", \n                        \"message authentication\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Authorization\", \n                        \"Centralized control\", \n                        \"Collaboration\", \n                        \"Computer science\", \n                        \"Computer security\", \n                        \"Environmental management\", \n                        \"Grid computing\", \n                        \"Java\", \n                        \"Mathematics\", \n                        \"National security\"\n                    ]\n                }, \n                \"pubtitle\": \"Grid Computing, 2005. The 6th IEEE/ACM International Workshop on\", \n                \"punumber\": \"10354\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2005\", \n                \"spage\": \"8 pp.\", \n                \"abstract\": \"This paper describes an ad hoc grid security infrastructure developed as a part of the Java CoG Kit project. It supports several requirements specific to the sporadic nature of ad hoc grids. It focuses on identity management, identity verification, and authorization control in spontaneous grid collaborations without pre-established policies or environments. It adopts established community standards, with modifications where needed. This paper also discusses the integration of the ad hoc grid security infrastructure in an ad hoc grid implementation. The implementation supports secure collaboration in ad hoc grids using commodity technologies such as the Java CoG Kit, JXTA, GSI, and XACML.\", \n                \"isbn\": \"0-7803-9492-5\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1542726\", \n                \"doi\": \"10.1109/GRID.2005.1542726\", \n                \"publicationId\": \"1542726\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1542726&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1542726\"\n            }, \n            {\n                \"rank\": \"23\", \n                \"title\": \"Cyberaide JavaScript: A JavaScript Commodity Grid Kit\", \n                \"authors\": \"von Laszewski, G.;  Fugang Wang;  Younge, A.;  Xi He;  Zhenhua Guo;  Pierce, M.\", \n                \"affiliations\": \"Rochester Inst. of Technol., Rochester, NY, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Java\", \n                        \"Web services\", \n                        \"application program interfaces\", \n                        \"authoring languages\", \n                        \"grid computing\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Graphical user interfaces\", \n                        \"Grid computing\", \n                        \"Java\", \n                        \"Libraries\", \n                        \"Middleware\", \n                        \"Portals\", \n                        \"Resource management\", \n                        \"Service oriented architecture\", \n                        \"Software maintenance\", \n                        \"Web services\"\n                    ]\n                }, \n                \"pubtitle\": \"Grid Computing Environments Workshop, 2008. GCE '08\", \n                \"punumber\": \"4729055\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2008\", \n                \"spage\": \"1\", \n                \"epage\": \"10\", \n                \"abstract\": \"In this paper, we describe a service oriented architecture and Grid abstraction framework that allows us to access Grids through JavaScript. Obviously, such a framework integrates well with other Web 2.0 technologies. The framework consists of two parts. A client Application Programming Interface (API) to access the Grid via JavaScript and a mediator service and API through which the Grid access is channeled. The framework uses commodity Web service standards and provides extended functionality such as asynchronous task management, file transfer, and workflow management based on our previous work. The availability of our framework simplifies not only the development of new services, but also the development of advanced client side Grid applications that can be accessed through Web browsers. We demonstrate this ability by providing an example that integrates a variety of useful services to be accessed through a JavaScript enabled client desktop via a Web browser. Overall, Grid developers will have another tool at their disposal that projects a simpler way to distribute and maintain cyberinfrastructure related software, while simultaneously delivering advanced interfaces and integrating social services for the scientific community.\", \n                \"isbn\": \"978-1-4244-2860-1\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"4738448\", \n                \"doi\": \"10.1109/GCE.2008.4738448\", \n                \"publicationId\": \"4738448\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4738448&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4738448\"\n            }, \n            {\n                \"rank\": \"24\", \n                \"title\": \"GridAnt: a client-controllable grid workflow system\", \n                \"authors\": \"Amin, K.;  von Laszewski, G.;  Hategan, M.;  Zaluzec, N.J.;  Hampton, S.;  Rossi, A.\", \n                \"affiliations\": \"Argonne Nat. Lab., IL, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"grid computing\", \n                        \"workflow management software\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Business\", \n                        \"Collaborative work\", \n                        \"Context\", \n                        \"Dynamic programming\", \n                        \"Grid computing\", \n                        \"Hardware\", \n                        \"Laboratories\", \n                        \"Open source software\", \n                        \"Pattern analysis\", \n                        \"Workflow management software\"\n                    ]\n                }, \n                \"pubtitle\": \"System Sciences, 2004. Proceedings of the 37th Annual Hawaii International Conference on\", \n                \"punumber\": \"8934\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2004\", \n                \"spage\": \"10 pp.\", \n                \"abstract\": \"Process management is an extremely important concept in both business and scientific communities. Several workflow management tools have been proposed in recent years offering advanced functionality in various domains. In the business world, workflow vendors offer commercial and customized solutions targeting specific users. In the scientific world, several open-source workflow management tools are freely available. However they are directed toward service aggregation rather than distributed process management. Little consideration is given to the needs of the client in terms of mapping the process flow of the client. In the grid community it is essential that the grid users have such a tool available enabling them to orchestrate complex work-flows on the fly without substantial help from the service providers. At the same time it is important that the grid user not be burdened with the intricacies of the workflow system. With the perspective of the grid user in mind, an extensible client-side workflow management system, called GridAnt, has been developed. This paper discusses the design principles, functionality, and application of the proposed GridAnt workflow manager.\", \n                \"isbn\": \"0-7695-2056-1\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1265491\", \n                \"doi\": \"10.1109/HICSS.2004.1265491\", \n                \"publicationId\": \"1265491\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1265491&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1265491\"\n            }, \n            {\n                \"rank\": \"25\", \n                \"title\": \"InfoGram: a grid service that supports both information queries and job execution\", \n                \"authors\": \"von Laszewski, G.;  Gawor, J.;  Pena, C.J.;  Foster, I.\", \n                \"affiliations\": \"Argonne Nat. Lab., IL, USA\", \n                \"controlledterms\": {\n                    \"term\": [\n                        \"Internet\", \n                        \"distributed processing\", \n                        \"information resources\", \n                        \"processor scheduling\", \n                        \"query processing\"\n                    ]\n                }, \n                \"thesaurusterms\": {\n                    \"term\": [\n                        \"Computer architecture\", \n                        \"Computer science\", \n                        \"Information security\", \n                        \"Laboratories\", \n                        \"Project management\", \n                        \"Protocols\", \n                        \"Prototypes\", \n                        \"Resource management\", \n                        \"Web services\", \n                        \"Wire\"\n                    ]\n                }, \n                \"pubtitle\": \"High Performance Distributed Computing, 2002. HPDC-11 2002. Proceedings. 11th IEEE International Symposium on\", \n                \"punumber\": \"7999\", \n                \"pubtype\": \"Conference Publications\", \n                \"publisher\": \"IEEE\", \n                \"py\": \"2002\", \n                \"spage\": \"333\", \n                \"epage\": \"342\", \n                \"abstract\": \"The research described in this paper is performed as part of the Globus Project. It introduces a new grid service called InfoGram that combines the ability of serving as information service and as a job execution service. Previously, both services were architected and implemented within the Globus Toolkit as two different services with different wire protocols. Our service demonstrates a significant simplification of the architecture while treating job submissions and information queries alike. The advantage of our service is that it provides backwards compatibility to existing grid services, while at the same time providing forwards compatibility to the emerging Web services world. Part of the work conducted within this effort is already reused by the current open grid services architecture prototype implementation.\", \n                \"issn\": \"1082-8907\", \n                \"isbn\": \"0-7695-1686-6\", \n                \"htmlFlag\": \"1\", \n                \"arnumber\": \"1029933\", \n                \"doi\": \"10.1109/HPDC.2002.1029933\", \n                \"publicationId\": \"1029933\", \n                \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=1029933&contentType=Conference+Publications\", \n                \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1029933\"\n            }\n        ]\n    }\n}"
