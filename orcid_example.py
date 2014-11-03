@@ -1,6 +1,5 @@
 import orcid
 
-
 authors = orcid.search('laszewski')
 
 print authors
@@ -11,6 +10,6 @@ authors = orcid.search('wang')
 
 print authors
 
-while True:
-    a = next(authors).family_name, 
+for author in authors:
+    a = author.family_name, 
     print a
