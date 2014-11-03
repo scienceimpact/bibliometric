@@ -1,5 +1,4 @@
 import dblp
-import json
 
 authors = dblp.search('Gregor von Laszewski')
 

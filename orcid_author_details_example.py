@@ -2,7 +2,7 @@ from scienceimpact.lookup.orcid_author_details import author_details
 from scienceimpact.lookup.orcid_author_works import author_works
 import json
 
-fout = open("author_details.txt", "w")
+fout = open("orcid_author_details.txt", "w")
 
 def banner(msg):
     print >>fout,70*"="
