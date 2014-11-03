@@ -1,15 +1,22 @@
 from scienceimpact.lookup.orcid_author_details import author_details
-from pprint import pprint
+from scienceimpact.lookup.orcid_author_works import author_works
 import json
 
+fout = open("author_details.txt", "w")
 
 def banner(msg):
-    print 70*"="
-    print msg
-    print 70*"=" 
+    print >>fout,70*"="
+    print >>fout,msg
+    print >>fout,70*"=" 
     
 banner("orcid author details xml")
-print author_details("0000-0001-9558-179X", kind="xml")
+print >>fout,author_details("0000-0001-9558-179X", kind="xml").encode('utf-8')
 
 banner("orcid author details json")
-print json.dumps(author_details("0000-0001-9558-179X", kind="json"), indent=2)
+print >>fout,json.dumps(author_details("0000-0001-9558-179X", kind="json"), indent=2).encode('utf-8')
+
+banner("orcid author works xml")
+print >>fout,author_works("0000-0001-9558-179X", kind="xml").encode('utf-8')
+
+banner("orcid author works json")
+print >>fout,json.dumps(author_works("0000-0001-9558-179X", kind="json"), indent=2).encode('utf-8')
