@@ -1,0 +1,4 @@
+Fugang Wang
+======================================================================
+['James C. Browne', 'Robert L. DeLeon', 'Abani K. Patra', 'William L. Barth', 'John Hammond', 'Matthew D. Jones', 'Thomas R. Furlani', 'Barry L. Schneider', 'Steven M. Gallo', 'Amin Ghadersohi', 'Ryan J. Gentner', 'Jeffrey T. Palmer', 'Nikolay Simakov', 'Martins Innus', 'Andrew E. Bruno', 'Joseph P. White', 'Cynthia D. Cornelius', 'Thomas Yearke', 'Kyle Marcus', 'Gregor von Laszewski', 'Hyungro Lee', 'Heng Chen', 'Geoffrey Charles Fox', 'Charng-Da Lu', 'Ann Zimmerman', 'John Towns', 'David L. Hart', 'Javier Diaz', 'Geoffrey Fox', 'Andrew J. Younge', 'Lizhe Wang', 'Jai Dayal', 'Tobias Kurze', 'Jie Tao', 'Marcel Kunze', 'David Kramer', 'Wolfgang Karl', 'Jaliya Ekanayake', 'Casey Rathbone']
+Author count:39
