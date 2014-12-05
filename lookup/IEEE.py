@@ -27,6 +27,27 @@ class IEEE:
             return r.text
     
     @staticmethod
+    def ieee_publication_search(publication_name, kind="json"):
+        """
+        Return the publication details from the publication name. 
+
+        * json - returns a json object
+        * xml - returns a text string in xml turtle format
+
+        Most convenient is the json format
+        """
+        
+        url = IEEE_BASE_URL + "ti=" + publication_name
+    
+        r = requests.get(url)
+
+        if kind in ["json"]:
+            d = xmltodict.parse(r.text)      
+            return json.dumps(d, indent=4)
+        else:
+            return r.text
+    
+    @staticmethod
     def ieee_doi_get(doi_number, kind="xml"):
         """
         Return a DOI entry from IEEE given the DOI number. 

@@ -1,0 +1,89 @@
+======================================================================
+ieee author details xml
+======================================================================
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+<totalfound>1</totalfound>
+
+<totalsearched>3867047</totalsearched>
+
+<document>
+
+<rank>1</rank>
+
+<title><![CDATA[Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures]]></title>
+
+<authors><![CDATA[Diaz, J.;  von Laszewski, G.;  Fugang Wang;  Fox, G.]]></authors>
+
+<affiliations><![CDATA[Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA]]></affiliations>
+
+<controlledterms>
+
+<term><![CDATA[cloud computing]]></term>
+
+<term><![CDATA[grid computing]]></term>
+
+<term><![CDATA[image registration]]></term>
+
+<term><![CDATA[security of data]]></term>
+
+</controlledterms>
+
+<thesaurusterms>
+
+<term><![CDATA[Abstracts]]></term>
+
+<term><![CDATA[Computer architecture]]></term>
+
+<term><![CDATA[Image generation]]></term>
+
+<term><![CDATA[Image registration]]></term>
+
+<term><![CDATA[Kernel]]></term>
+
+<term><![CDATA[Security]]></term>
+
+</thesaurusterms>
+
+<pubtitle><![CDATA[Cloud Computing (CLOUD), 2012 IEEE 5th International Conference on]]></pubtitle>
+
+<punumber><![CDATA[6253102]]></punumber>
+
+<pubtype><![CDATA[Conference Publications]]></pubtype>
+
+<publisher><![CDATA[IEEE]]></publisher>
+
+<py><![CDATA[2012]]></py>
+
+<spage><![CDATA[463]]></spage>
+
+<epage><![CDATA[470]]></epage>
+
+<abstract><![CDATA[Cloud computing has become an important driver for delivering infrastructure as a service (IaaS) to users with on-demand requests for customized environments and sophisticated software stacks. Within the FutureGrid (FG) project, we offer different IaaS frameworks as well as high performance computing infrastructures by allowing users to explore them as part of the FG testbed. To ease the use of these infrastructures, as part of performance experiments, we have designed an image management framework, which allows us to create user defined software stacks based on abstract image management and uniform image registration. Consequently, users can create their own customized environments very easily. The complex processes of the underlying infrastructures are managed by our sophisticated software tools and services. Besides being able to manage images for IaaS frameworks, we also allow the registration and deployment of images onto bare-metal by the user. This level of functionality is typically not offered in a HPC (high performance computing) infrastructure. However, our approach provides users with the ability to create their own environments changing the paradigm of administrator-controlled dynamic provisioning to user-controlled dynamic provisioning, which we also call raining. Thus, users obtain access to a testbed with the ability to manage state-of-the-art software stacks that would otherwise not be supported in typical compute centers. Security is also considered by vetting images before they are registered in a infrastructure. In this paper, we present the design of our image management framework and evaluate two of its major components. This includes the image creation and image registration. Our design and implementation can support the current FG user community interested in such capabilities.]]></abstract>
+
+<issn><![CDATA[2159-6182]]></issn>
+
+<isbn><![CDATA[978-1-4673-2892-0]]></isbn>
+
+<htmlFlag><![CDATA[1]]></htmlFlag>
+
+<arnumber><![CDATA[6253539]]></arnumber>
+
+<doi><![CDATA[10.1109/CLOUD.2012.94]]></doi>
+
+<publicationId><![CDATA[6253539]]></publicationId>
+
+<mdurl><![CDATA[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6253539&contentType=Conference+Publications]]></mdurl>
+
+<pdf><![CDATA[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6253539]]></pdf>
+
+</document>
+
+</root>
+
+======================================================================
+ieee author details json
+======================================================================
+"{\n    \"root\": {\n        \"totalfound\": \"1\", \n        \"totalsearched\": \"3867047\", \n        \"document\": {\n            \"rank\": \"1\", \n            \"title\": \"Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures\", \n            \"authors\": \"Diaz, J.;  von Laszewski, G.;  Fugang Wang;  Fox, G.\", \n            \"affiliations\": \"Pervasive Technol. Inst., Indiana Univ., Bloomington, IN, USA\", \n            \"controlledterms\": {\n                \"term\": [\n                    \"cloud computing\", \n                    \"grid computing\", \n                    \"image registration\", \n                    \"security of data\"\n                ]\n            }, \n            \"thesaurusterms\": {\n                \"term\": [\n                    \"Abstracts\", \n                    \"Computer architecture\", \n                    \"Image generation\", \n                    \"Image registration\", \n                    \"Kernel\", \n                    \"Security\"\n                ]\n            }, \n            \"pubtitle\": \"Cloud Computing (CLOUD), 2012 IEEE 5th International Conference on\", \n            \"punumber\": \"6253102\", \n            \"pubtype\": \"Conference Publications\", \n            \"publisher\": \"IEEE\", \n            \"py\": \"2012\", \n            \"spage\": \"463\", \n            \"epage\": \"470\", \n            \"abstract\": \"Cloud computing has become an important driver for delivering infrastructure as a service (IaaS) to users with on-demand requests for customized environments and sophisticated software stacks. Within the FutureGrid (FG) project, we offer different IaaS frameworks as well as high performance computing infrastructures by allowing users to explore them as part of the FG testbed. To ease the use of these infrastructures, as part of performance experiments, we have designed an image management framework, which allows us to create user defined software stacks based on abstract image management and uniform image registration. Consequently, users can create their own customized environments very easily. The complex processes of the underlying infrastructures are managed by our sophisticated software tools and services. Besides being able to manage images for IaaS frameworks, we also allow the registration and deployment of images onto bare-metal by the user. This level of functionality is typically not offered in a HPC (high performance computing) infrastructure. However, our approach provides users with the ability to create their own environments changing the paradigm of administrator-controlled dynamic provisioning to user-controlled dynamic provisioning, which we also call raining. Thus, users obtain access to a testbed with the ability to manage state-of-the-art software stacks that would otherwise not be supported in typical compute centers. Security is also considered by vetting images before they are registered in a infrastructure. In this paper, we present the design of our image management framework and evaluate two of its major components. This includes the image creation and image registration. Our design and implementation can support the current FG user community interested in such capabilities.\", \n            \"issn\": \"2159-6182\", \n            \"isbn\": \"978-1-4673-2892-0\", \n            \"htmlFlag\": \"1\", \n            \"arnumber\": \"6253539\", \n            \"doi\": \"10.1109/CLOUD.2012.94\", \n            \"publicationId\": \"6253539\", \n            \"mdurl\": \"http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6253539&contentType=Conference+Publications\", \n            \"pdf\": \"http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6253539\"\n        }\n    }\n}"
