@@ -1,7 +1,7 @@
-from scienceimpact.lookup.doi import doi as doi_crossref
-from scienceimpact.lookup.ieee import doi as doi_ieee
-from scienceimpact.lookup.orcid import doi as doi_orcid
-from scienceimpact.lookup.crossref import doi as doi_crossref_site
+from lookup.DOI import DOI
+from lookup.IEEE import IEEE
+from lookup.ORCID import ORCID
+from lookup.CrossRef import CrossRef
 from pprint import pprint
 import json
 
@@ -16,27 +16,27 @@ def banner(msg):
     print 70*"="    
 
 
-banner("crossref turtle")
-print doi_crossref("10.1109/GCE.2010.5676126", kind="turle")
+banner("doi turtle")
+print DOI.doi_get("10.1109/GCE.2010.5676126", kind="turle")
 
-banner("crossref bibtex")
-print doi_crossref("10.1109/GCE.2010.5676126")
+banner("doi bibtex")
+print DOI.doi_get("10.1109/GCE.2010.5676126")
+
+banner("doi json")
+pprint( DOI.doi_get("10.1109/GCE.2010.5676126", kind="json"))
+
+banner("ieee xml")
+print IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="xml")
+
+banner("ieee json")
+print IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="json")
+
+
+banner("orcid xml")
+print ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="xml")
+
+banner("orcid json")
+print json.dumps(ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="json"), indent=2)
 
 banner("crossref json")
-pprint( doi_crossref("10.1109/GCE.2010.5676126", kind="json"))
-
-banner("ieee xml")
-print doi_ieee("10.1109/GCE.2010.5676126", kind="xml")
-
-banner("ieee xml")
-print doi_ieee("10.1109/GCE.2010.5676126", kind="json")
-
-
-banner("ieee orcid")
-print doi_orcid("10.1109/GCE.2010.5676126", kind="xml")
-
-banner("ieee orcid")
-print json.dumps(doi_orcid("10.1109/GCE.2010.5676126", kind="json"), indent=2)
-
-banner("crossref site json")
-pprint( doi_crossref_site("10.1109/GCE.2010.5676126", kind="json"))
+pprint( CrossRef.crossref_doi_get("10.1109/GCE.2010.5676126", kind="json"))

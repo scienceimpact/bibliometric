@@ -1,4 +1,4 @@
-from scienceimpact.lookup.crossref_author_details import author_details
+from lookup.CrossRef import CrossRef
 
 fout = open("crossref_author_details.txt", "w")
 
@@ -10,4 +10,4 @@ def banner(msg):
 author = 'Gregor von Laszewski'
 
 banner("crossref author details json")
-print >>fout,author_details(author, kind="json")
+print >>fout,CrossRef.crossref_author_search(author, kind="json")
