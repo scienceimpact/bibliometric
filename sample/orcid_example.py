@@ -23,3 +23,5 @@ alfonso = orcid.get('0000-0001-8855-5569')
 pprint(alfonso)
 print alfonso.keywords
 #print alfonso.publications
+
+print gregor.publications()

@@ -2,7 +2,7 @@ import requests
 
 ORCID_BASE = "http://pub.orcid.org/"
 
-def author_details(orcid, kind="json"):
+def author_details(name, kind="json"):
     """
     Return the author details from ORCID. 
 
@@ -12,13 +12,13 @@ def author_details(orcid, kind="json"):
     Most convenient is the json format
     """
         
-    url = ORCID_BASE + orcid
+    url = ORCID_BASE + name
 
 
     if kind in ["xml"]:
         r = requests.get(url)
         return r.text
     if kind in ["json"]:
-        headers = {"accept": "application/orcid+json"}        
+        headers = {"accept": "application/name+json"}        
         r = requests.get(url, headers=headers)
         return r.json()

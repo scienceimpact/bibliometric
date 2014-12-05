@@ -1,0 +1,279 @@
+======================================================================
+orcid author details xml
+======================================================================
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orcid-message xmlns="http://www.orcid.org/ns/orcid">
+    <message-version>1.1</message-version>
+    <orcid-search-results num-found="7197">
+        <orcid-search-result>
+            <relevancy-score>0.92184997</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0001-9558-179X</uri>
+                    <path>0000-0001-9558-179X</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Gregor</given-names>
+                        <family-name>von Laszewski</family-name>
+                        <other-names>
+                            <other-name>Gregor v. Laszewski</other-name>
+                        </other-names>
+                    </personal-details>
+                    <biography>See http://gregor.cyberaide.org/</biography>
+                    <researcher-urls>
+                        <researcher-url>
+                            <url-name>personal home page</url-name>
+                            <url>http://gregor.cyberaide.org</url>
+                        </researcher-url>
+                    </researcher-urls>
+                    <contact-details>
+                        <email primary="true" current="true" verified="true">laszewski@gmail.com</email>
+                    </contact-details>
+                    <keywords>
+                        <keyword>Cloud Computing, Grid Computing, High Performance Computing, Distributed Computing</keyword>
+                    </keywords>
+                    <external-identifiers>
+                        <external-identifier>
+                            <external-id-common-name>ResearcherID</external-id-common-name>
+                            <external-id-reference>C-2808-2012</external-id-reference>
+                            <external-id-url>http://www.researcherid.com/rid/C-2808-2012</external-id-url>
+                            <external-id-source>
+                                <uri>http://orcid.org/0000-0001-7707-4137</uri>
+                                <path>0000-0001-7707-4137</path>
+                                <host>orcid.org</host>
+                            </external-id-source>
+                        </external-identifier>
+                        <external-identifier>
+                            <external-id-common-name>Scopus Author ID</external-id-common-name>
+                            <external-id-reference>6701618640</external-id-reference>
+                            <external-id-url>http://www.scopus.com/inward/authorDetails.url?authorID=6701618640&amp;partnerID=MN8TOARS</external-id-url>
+                            <external-id-source>
+                                <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                                <path>0000-0002-5982-8983</path>
+                                <host>orcid.org</host>
+                            </external-id-source>
+                        </external-identifier>
+                    </external-identifiers>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.5719199</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0002-6889-7497</uri>
+                    <path>0000-0002-6889-7497</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Gregor</given-names>
+                        <family-name>von Rothkirch</family-name>
+                    </personal-details>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.4202709</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0002-3365-6247</uri>
+                    <path>0000-0002-3365-6247</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Patrick</given-names>
+                        <family-name>Wagstrom</family-name>
+                        <credit-name>Patrick Wagstrom</credit-name>
+                        <other-names>
+                            <other-name>Patrick Adam Wagstrom</other-name>
+                        </other-names>
+                    </personal-details>
+                    <biography></biography>
+                    <researcher-urls>
+                        <researcher-url>
+                            <url-name>Personal Home Page</url-name>
+                            <url>http://patrick.wagstrom.net/</url>
+                        </researcher-url>
+                        <researcher-url>
+                            <url-name>IBM Research Home Page</url-name>
+                            <url>http://researcher.watson.ibm.com/researcher/view.php?person=us-pwagstro</url>
+                        </researcher-url>
+                    </researcher-urls>
+                    <keywords>
+                        <keyword>software engineering, open source, agile, big data, software repositories</keyword>
+                    </keywords>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.34936714</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0002-3555-6506</uri>
+                    <path>0000-0002-3555-6506</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Gregor</given-names>
+                        <family-name>Fiedler</family-name>
+                    </personal-details>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.33621672</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0002-4978-9423</uri>
+                    <path>0000-0002-4978-9423</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Sarat</given-names>
+                        <family-name>Sreepathi</family-name>
+                    </personal-details>
+                    <biography>Computer Scientist at Oak Ridge National Laboratory</biography>
+                    <researcher-urls>
+                        <researcher-url>
+                            <url-name>Work</url-name>
+                            <url>http://ft.ornl.gov/~sarat</url>
+                        </researcher-url>
+                    </researcher-urls>
+                    <keywords>
+                        <keyword>HPC, Scientific Computing, Optimization</keyword>
+                    </keywords>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.28141224</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0001-5990-6390</uri>
+                    <path>0000-0001-5990-6390</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Archit</given-names>
+                        <family-name>Kulshrestha</family-name>
+                        <credit-name>Archit Kulshrestha</credit-name>
+                    </personal-details>
+                    <keywords>
+                        <keyword>HPC, cloud computing, grid computing</keyword>
+                    </keywords>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.2509462</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0001-7961-2277</uri>
+                    <path>0000-0001-7961-2277</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>John</given-names>
+                        <family-name>Towns</family-name>
+                    </personal-details>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.25036347</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0003-0246-4346</uri>
+                    <path>0000-0003-0246-4346</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>R Theo</given-names>
+                        <family-name>Gregor</family-name>
+                        <credit-name>Reinhold Theophilus Gregor</credit-name>
+                    </personal-details>
+                    <biography></biography>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.25036347</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0002-3948-8045</uri>
+                    <path>0000-0002-3948-8045</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Gregor</given-names>
+                        <family-name>Thalhammer</family-name>
+                        <credit-name>Gregor Thalhammer</credit-name>
+                    </personal-details>
+                    <biography></biography>
+                    <contact-details>
+                        <address>
+                            <country>AT</country>
+                        </address>
+                    </contact-details>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+        <orcid-search-result>
+            <relevancy-score>0.24247411</relevancy-score>
+            <orcid-profile>
+                <orcid-identifier>
+                    <uri>http://orcid.org/0000-0002-1775-2159</uri>
+                    <path>0000-0002-1775-2159</path>
+                    <host>orcid.org</host>
+                </orcid-identifier>
+                <orcid-bio>
+                    <personal-details>
+                        <given-names>Ingo</given-names>
+                        <family-name>Gregor</family-name>
+                    </personal-details>
+                    <biography></biography>
+                    <researcher-urls>
+                        <researcher-url>
+                            <url>www.joerg-enderlein.de</url>
+                        </researcher-url>
+                    </researcher-urls>
+                    <contact-details>
+                        <address>
+                            <country>DE</country>
+                        </address>
+                    </contact-details>
+                    <external-identifiers>
+                        <external-identifier>
+                            <external-id-common-name>ResearcherID</external-id-common-name>
+                            <external-id-reference>I-8046-2013</external-id-reference>
+                            <external-id-url>http://www.researcherid.com/rid/I-8046-2013</external-id-url>
+                            <external-id-source>
+                                <uri>http://orcid.org/0000-0001-7707-4137</uri>
+                                <path>0000-0001-7707-4137</path>
+                                <host>orcid.org</host>
+                            </external-id-source>
+                        </external-identifier>
+                    </external-identifiers>
+                </orcid-bio>
+            </orcid-profile>
+        </orcid-search-result>
+    </orcid-search-results>
+</orcid-message>
+
+======================================================================
+orcid author details json
+======================================================================
+{
+  "message-version": "1.2_rc6", 
+  "error-desc": "It is possible that this is a bug. If you could raise an issue in Github it would be much appreciated. Thanks, the ORCID team"
+}
