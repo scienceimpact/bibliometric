@@ -11,9 +11,9 @@ import json
 
 
 def banner(msg):
-    print 70*"="
+    print 70 * "="
     print msg
-    print 70*"="    
+    print 70 * "="    
 
 
 banner("doi turtle")
@@ -23,7 +23,7 @@ banner("doi bibtex")
 print DOI.doi_get("10.1109/GCE.2010.5676126")
 
 banner("doi json")
-pprint( DOI.doi_get("10.1109/GCE.2010.5676126", kind="json"))
+pprint(DOI.doi_get("10.1109/GCE.2010.5676126", kind="json"))
 
 banner("ieee xml")
 print IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="xml")
@@ -39,4 +39,4 @@ banner("orcid json")
 print json.dumps(ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="json"), indent=2)
 
 banner("crossref json")
-pprint( CrossRef.crossref_doi_get("10.1109/GCE.2010.5676126", kind="json"))
+pprint(CrossRef.crossref_doi_get("10.1109/GCE.2010.5676126", kind="json"))

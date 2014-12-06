@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orcid-message xmlns="http://www.orcid.org/ns/orcid">
+    <message-version>1.1</message-version>
+    <orcid-profile type="user">
+        <orcid-identifier>
+            <uri>http://orcid.org/0000-0001-9558-179X</uri>
+            <path>0000-0001-9558-179X</path>
+            <host>orcid.org</host>
+        </orcid-identifier>
+        <orcid-preferences>
+            <locale>en</locale>
+        </orcid-preferences>
+        <orcid-history>
+            <creation-method>website</creation-method>
+            <completion-date>2012-10-17T19:48:02.482Z</completion-date>
+            <submission-date>2012-10-17T18:35:46.088Z</submission-date>
+            <last-modified-date>2014-10-14T17:49:44.804Z</last-modified-date>
+            <claimed>true</claimed>
+        </orcid-history>
+        <orcid-bio>
+            <personal-details>
+                <given-names>Gregor</given-names>
+                <family-name>von Laszewski</family-name>
+                <other-names>
+                    <other-name>Gregor v. Laszewski</other-name>
+                </other-names>
+            </personal-details>
+            <biography>See http://gregor.cyberaide.org/</biography>
+            <researcher-urls>
+                <researcher-url>
+                    <url-name>personal home page</url-name>
+                    <url>http://gregor.cyberaide.org</url>
+                </researcher-url>
+            </researcher-urls>
+            <contact-details>
+                <email primary="true" current="true" verified="true">laszewski@gmail.com</email>
+            </contact-details>
+            <keywords>
+                <keyword>Cloud Computing, Grid Computing, High Performance Computing, Distributed Computing</keyword>
+            </keywords>
+            <external-identifiers>
+                <external-identifier>
+                    <external-id-orcid>
+                        <uri>http://orcid.org/0000-0001-7707-4137</uri>
+                        <path>0000-0001-7707-4137</path>
+                        <host>orcid.org</host>
+                    </external-id-orcid>
+                    <external-id-common-name>ResearcherID</external-id-common-name>
+                    <external-id-reference>C-2808-2012</external-id-reference>
+                    <external-id-url>http://www.researcherid.com/rid/C-2808-2012</external-id-url>
+                </external-identifier>
+                <external-identifier>
+                    <external-id-orcid>
+                        <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                        <path>0000-0002-5982-8983</path>
+                        <host>orcid.org</host>
+                    </external-id-orcid>
+                    <external-id-common-name>Scopus Author ID</external-id-common-name>
+                    <external-id-reference>6701618640</external-id-reference>
+                    <external-id-url>http://www.scopus.com/inward/authorDetails.url?authorID=6701618640&amp;partnerID=MN8TOARS</external-id-url>
+                </external-identifier>
+            </external-identifiers>
+        </orcid-bio>
+        <orcid-activities/>
+    </orcid-profile>
+</orcid-message>
+

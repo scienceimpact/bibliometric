@@ -162,6 +162,7 @@ orcid author details json
         "email": [
           {
             "verified": true, 
+            "source-client-id": null, 
             "primary": true, 
             "visibility": null, 
             "current": true, 

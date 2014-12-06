@@ -21,7 +21,7 @@ with open('xd_persons.txt', 'rb') as csvfile:
             'organization': entry[4]
         }
         
-#pprint (person)
+# pprint (person)
 
 
 #
@@ -33,8 +33,8 @@ data = {}
 
 kind = ["Firstname",
         "Lastname",
-        "F Lastname",        
-        "F M Lastname",        
+        "F Lastname",
+        "F M Lastname",
         "Firstname Lastname",
         "Firstname Middlename Lastname"]
          
@@ -49,7 +49,7 @@ for entry in person:
     data["Lastname"].append(person[entry]['lastname'])
     data["Firstname"].append(person[entry]['firstname'])
     data["Firstname Lastname"].append(person[entry]['firstname'] + " " + person[entry]['lastname'])    
-    data["Firstname Middlename Lastname"].append(person[entry]['firstname'] + " " + person[entry]['middlename']    + " " + person[entry]['lastname'])
+    data["Firstname Middlename Lastname"].append(person[entry]['firstname'] + " " + person[entry]['middlename'] + " " + person[entry]['lastname'])
 #    data["Firstname Middlename Lastname Org"].append(person[entry]['firstname'] + " " + person[entry]['middlename']    + " " + person[entry]['lastname'] + " " + person[entry]['organization']) 
     data["F Lastname"].append(person[entry]['firstname'][0] + " " + person[entry]['lastname'])
 
@@ -66,7 +66,7 @@ def find_frequency(entries):
 
 
 def get_freq_vector(freqs):
-    vector  = []
+    vector = []
     for name in freqs:
         vector.append(name[1])
     return vector
