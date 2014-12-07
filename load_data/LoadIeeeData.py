@@ -2,6 +2,8 @@ from lookup.IEEE import IEEE
 
 from parsers.IEEE_Parser import IEEE_Parser
 
+from load_graph.loadIEEEgraph import LoadIEEEGraph
+
 class LoadIeeeData:
     @staticmethod
     def start_load():
@@ -10,6 +12,12 @@ class LoadIeeeData:
         """
         out_file = "../data/ieee_author_search.xml"
         fout = open(out_file, "w")
-        print >> fout,IEEE.ieee_author_search("Gregor von Laszewski", kind="xml").encode('utf-8')
+        
+        name = "Gregor von Laszewski"
+        
+        print >> fout,IEEE.ieee_author_search(name, kind="xml").encode('utf-8')
         fout.close()
-        IEEE_Parser.ieee_author_search_parser(out_file)
+        
+        pubAuthDict = IEEE_Parser.ieee_author_search_parser(out_file)
+        
+        LoadIEEEGraph.create_graph(pubAuthDict,name)

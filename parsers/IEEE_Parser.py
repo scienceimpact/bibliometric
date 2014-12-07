@@ -10,15 +10,19 @@ class IEEE_Parser:
         tree = ET.parse(xml_file)
         root = tree.getroot()
 
-        pubList = []
         authList = []
+        pubAuthDict = {}
 
         for child in root:
             for doc in child:
                 if(doc.tag=='title'):
-                    pubList.append(doc.text)
+                    pub = doc.text
+
                 if(doc.tag=='authors'):
-                    authList.append(IEEE_Parser.name_seperator(doc.text))
+                    authList = IEEE_Parser.name_seperator(doc.text)
+                    pubAuthDict[pub] = authList
+        
+        return pubAuthDict
 
 
     @staticmethod
@@ -35,8 +39,8 @@ class IEEE_Parser:
                 last = name[:name.index(',')]
                 first = name[name.index(', ')+2:]
             else:
-                last = name[:name.index(' ')]
-                first = name[name.index(' ')+1:]
+                first = name[:name.index(' ')]
+                last = name[name.index(' ')+1:]
                 
             nameList.append(first+' '+last)
             
