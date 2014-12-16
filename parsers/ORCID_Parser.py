@@ -202,9 +202,10 @@ class ORCID_Parser:
         """
         Method to parse the citation text in bibtex format and return the list of authors
         """
-        
-        authors = citation_text[citation_text.find('author = {')+10:citation_text.find('}', citation_text.find('author = {')+10)].split('and')
-        authors = [author_name.strip() for author_name in authors]
+        authors = []
+        if citation_text.find('author = {') != -1:
+            authors = citation_text[citation_text.find('author = {')+10:citation_text.find('}', citation_text.find('author = {')+10)].split('and')
+            authors = [author_name.strip() for author_name in authors]
         return authors
         
     @staticmethod
@@ -213,7 +214,7 @@ class ORCID_Parser:
         Method to parse the unformatted citation text and return the list of authors
         """
         authors = []
-        if citation_text is not None:
+        if re.search("\d", citation_text) is not None:
             authors = citation_text[:re.search("\d", citation_text).start()-2]
         
             if re.search(", [A-z],", citation_text) is None:

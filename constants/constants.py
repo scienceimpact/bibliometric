@@ -5,5 +5,5 @@ mongo_constants = {
     'author_search_list': 'author_search_list',
     'author_list': 'Authors',
     'publication_list': 'Publications',
-    'retrieve_authors_upto_count': 100
+    'retrieve_authors_upto_count': 1000
 }
