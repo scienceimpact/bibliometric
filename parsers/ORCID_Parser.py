@@ -222,6 +222,8 @@ class ORCID_Parser:
         nameslist = fullname.split()
         
         for n in nameslist:
+            author['othernames'].append(n)
+            
             others = [a for a in nameslist if a != n]
             othername = n[0] + ' ' + ' '.join(others)
             author['othernames'].append(othername)
