@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <orcid-message xmlns="http://www.orcid.org/ns/orcid">
     <message-version>1.1</message-version>
-    <orcid-search-results num-found="81445">
+    <orcid-search-results num-found="81451">
         <orcid-search-result>
-            <relevancy-score>0.961883</relevancy-score>
+            <relevancy-score>0.9618871</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0001-9558-179X</uri>
@@ -57,7 +57,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.5420499</relevancy-score>
+            <relevancy-score>0.5420474</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0001-5990-6390</uri>
@@ -77,7 +77,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.34619462</relevancy-score>
+            <relevancy-score>0.3461905</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0003-3106-5360</uri>
@@ -110,7 +110,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.30528072</relevancy-score>
+            <relevancy-score>0.30527997</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0002-4978-9423</uri>
@@ -136,7 +136,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.2303646</relevancy-score>
+            <relevancy-score>0.23036754</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0002-3365-6247</uri>
@@ -170,7 +170,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.2040882</relevancy-score>
+            <relevancy-score>0.2040893</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0003-2129-5269</uri>
@@ -200,7 +200,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.19793741</relevancy-score>
+            <relevancy-score>0.19791679</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0001-5273-4872</uri>
@@ -216,7 +216,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.17703542</relevancy-score>
+            <relevancy-score>0.17701632</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0003-2389-5532</uri>
@@ -244,7 +244,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.17536855</relevancy-score>
+            <relevancy-score>0.17535049</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0001-7986-6082</uri>
@@ -272,7 +272,7 @@
             </orcid-profile>
         </orcid-search-result>
         <orcid-search-result>
-            <relevancy-score>0.17452887</relevancy-score>
+            <relevancy-score>0.17450967</relevancy-score>
             <orcid-profile>
                 <orcid-identifier>
                     <uri>http://orcid.org/0000-0002-4490-8569</uri>

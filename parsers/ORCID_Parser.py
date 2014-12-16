@@ -195,9 +195,50 @@ class ORCID_Parser:
                                                         for child7 in child6:
                                                             if(child7.tag == ns + 'other-name'):
                                                                 author['othernames'].append(child7.text)
+                        
+                        author = ORCID_Parser.generate_author_other_names(author)
                         authors.append(author)
         
         return authors
+    
+    @staticmethod
+    def generate_author_other_names(author):
+        """
+        Method to generate all the possible other names for the author from the first name and the last name 
+        """
+        
+        firstname = ''
+        lastname = ''
+        if 'firstname' in author:
+            firstname = author['firstname']
+        if 'lastname' in author:
+            lastname = author['lastname']
+        
+        fullname = firstname + ' ' + lastname
+        
+        fullname = fullname.replace('.', '')
+        fullname = fullname.replace('-', ' ')
+        
+        nameslist = fullname.split()
+        
+        for n in nameslist:
+            others = [a for a in nameslist if a != n]
+            othername = n[0] + ' ' + ' '.join(others)
+            author['othernames'].append(othername)
+            
+            for m in others:
+                others2 = [b for b in others if b!= m]
+                othername = n[0] + ' ' + m[0] + ' ' + ' '.join(others2)
+                author['othernames'].append(othername)
+                
+                for l in others2:
+                    others3 = [c for c in others2 if c != l]
+                    othername = n[0] + ' ' + m[0] + ' ' + l[0] + ' ' + ' '.join(others3)
+                    author['othernames'].append(othername)
+        
+        author['fullname'] = fullname
+        
+        return author
     
     @staticmethod
     def get_authors_list_from_bibtex(citation_text):
