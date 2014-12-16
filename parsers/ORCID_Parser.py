@@ -148,6 +148,8 @@ class ORCID_Parser:
                                                     work['doi'] = publication['doi']
                                             else:
                                                 work['doi'] = ''
+                                        if 'authors' not in work:
+                                            work['authors'] = []
                                         author['works'].append(work)
         
         return author
