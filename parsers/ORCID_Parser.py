@@ -227,15 +227,27 @@ class ORCID_Parser:
             others = [a for a in nameslist if a != n]
             othername = n[0] + ' ' + ' '.join(others)
             author['othernames'].append(othername)
+            othername = ' '.join(others)
+            author['othernames'].append(othername)
             
             for m in others:
                 others2 = [b for b in others if b!= m]
                 othername = n[0] + ' ' + m[0] + ' ' + ' '.join(others2)
                 author['othernames'].append(othername)
+                othername = m[0] + ' ' + ' '.join(others2)
+                author['othernames'].append(othername)
+                othername = ' '.join(others2)
+                author['othernames'].append(othername)
                 
                 for l in others2:
                     others3 = [c for c in others2 if c != l]
                     othername = n[0] + ' ' + m[0] + ' ' + l[0] + ' ' + ' '.join(others3)
+                    author['othernames'].append(othername)
+                    othername = m[0] + ' ' + l[0] + ' ' + ' '.join(others3)
+                    author['othernames'].append(othername)
+                    othername = l[0] + ' ' + ' '.join(others3)
+                    author['othernames'].append(othername)
+                    othername = ' '.join(others3)
                     author['othernames'].append(othername)
         
         author['fullname'] = fullname
