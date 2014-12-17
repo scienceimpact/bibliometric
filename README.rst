@@ -1,7 +1,7 @@
 bibliometric
 ============
 
-Project to identify person based on publications and accociate them with various identifiers.
+Project to identify person based on publications and associate them with various identifiers.
 
 Team
 ========
@@ -9,7 +9,7 @@ Team
 * Gregor von Laszewski (laszewski@gamil.com)
 * Fugang Wang (kevinwangfg@gmail.com)
 * Siddhardha Raju Mandapati (siddhardha.rm@gmail.com)
-* Amritanshu Joshi    (amritanshujoshi@gmail.com)
+* Amritanshu Joshi (amritanshujoshi@gmail.com)
 
 Acknowledgement
 =================
@@ -22,4 +22,4 @@ If you use this project code or data generated based on this program you need to
   ACM, New York, NY, USA, Article 25 , 8 pages. DOI=10.1145/2616498.2616507 http://doi.acm.org/10.1145/2616498.2616507
 
 
-It is **NOT** suficinet to just provide a web link to this source repository. 
+It is **NOT** sufficient to just provide a web link to this source repository. 

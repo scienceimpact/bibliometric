@@ -219,6 +219,8 @@ class ORCID_Parser:
         fullname = fullname.replace('.', '')
         fullname = fullname.replace('-', ' ')
         
+        author['othernames'].append(fullname)
+        
         nameslist = fullname.split()
         
         for n in nameslist:

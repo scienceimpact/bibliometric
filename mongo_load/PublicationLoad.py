@@ -39,6 +39,7 @@ class PublicationLoad:
                             publication['authorsIeee'] = ieee_doi_get_result['authors']
                 publication['authorsSearched'] = 0
                 coll.insert(publication)
+                print 'Inserted Publication: ' + publication['doi']
     
     @staticmethod
     def find_unsearched_publication():
@@ -75,3 +76,15 @@ class PublicationLoad:
         coll = db[mongo_constants['publication_list']]
 
         coll.update({'_id': publication['_id']}, {"$set": {'authorsSearched': 1}}, upsert=False, multi=False)
+    
+    @staticmethod
+    def get_all_publications():
+        """
+        Method to get all the publications from the database
+        """
+        
+        client = MongoClient(mongo_constants['server_name'], mongo_constants['port_number'])
+        db = client[mongo_constants['database']]
+        coll = db[mongo_constants['publication_list']]
+
+        return coll.find()

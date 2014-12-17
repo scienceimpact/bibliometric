@@ -2,3 +2,5 @@ xmltodict
 orcid-python
 git+https://github.com/scholrly/dblp-python.git
 
+pymongo
+py2neo

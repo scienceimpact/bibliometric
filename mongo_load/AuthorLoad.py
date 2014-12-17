@@ -46,6 +46,7 @@ class AuthorLoad:
             if coll.find({'orcid': author['orcid']}).count() == 0:
                 author['worksFound'] = 0
                 coll.insert(author)
+                print 'Inserted Author: ' + author['orcid']
     
     @staticmethod
     def find_unsearched_author():
@@ -94,3 +95,15 @@ class AuthorLoad:
         coll = db[mongo_constants['author_list']]
 
         return coll.count()
+    
+    @staticmethod
+    def get_all_authors():
+        """
+        Method to get all the authors from the database
+        """
+        
+        client = MongoClient(mongo_constants['server_name'], mongo_constants['port_number'])
+        db = client[mongo_constants['database']]
+        coll = db[mongo_constants['author_list']]
+
+        return coll.find()
