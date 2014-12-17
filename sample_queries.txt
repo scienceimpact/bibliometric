@@ -1,0 +1,16 @@
+MATCH (a:Author) WHERE has(a.othernames) and any(othername in a.othernames where othername = "Gregor Laszewski")  RETURN a
+
+MATCH (a:Author) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername = "Gregor") RETURN a
+
+MATCH (a:Author) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername = "Fox") RETURN a
+
+MATCH (a:Author)-[r]->(p:Publication)<-[s]-(b:Author) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername = "Gregor") and has(b.othernames) and any(othername in b.othernames WHERE othername = "Fox") RETURN a
+
+MATCH (a:Author)-[r]->(p:Publication {year: "2004"}) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername = "Gregor") and has(p.year) RETURN a
+
+MATCH (a:Author)-[r]->(p:Publication {year: "2004"}) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername =~ "(?i)gregor") and has(p.year) RETURN a
+
+MATCH (a:Author) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername =~ "(?i)s fox") RETURN a
+
+MATCH (a:Author)-[r]->(p:Publication) WHERE has(a.othernames) and any(othername in a.othernames WHERE othername =~ "(?i)s fox") RETURN a
+
