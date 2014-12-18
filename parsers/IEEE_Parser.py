@@ -9,7 +9,7 @@ class IEEE_Parser:
         Method to parse the list of publications and their authors from IEEE website into an array object, given the name of the author
         """
         
-        out_file = "../data/ieee_author_search.xml"
+        out_file = "data/ieee_author_search.xml"
         fout = open(out_file, "w")
         print >> fout, IEEE.ieee_author_search(author_name, kind="xml").encode('utf-8')
         fout.close()
@@ -67,7 +67,7 @@ class IEEE_Parser:
         Method to parse the publication details from IEEE website into an array object, given the name of the publication
         """
         
-        out_file = "../data/ieee_publication_search.xml"
+        out_file = "data/ieee_publication_search.xml"
         fout = open(out_file, "w")
         print >> fout, IEEE.ieee_publication_search(publication_name, kind="xml").encode('utf-8')
         fout.close()
@@ -117,7 +117,7 @@ class IEEE_Parser:
         Method to parse the publication details from IEEE website into a dictionary object, given the DOI number
         """
         
-        out_file = "../data/ieee_doi_get.xml"
+        out_file = "data/ieee_doi_get.xml"
         fout = open(out_file, "w")
         print >> fout, IEEE.ieee_doi_get(doi_number, kind="xml").encode('utf-8')
         fout.close()

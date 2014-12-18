@@ -11,7 +11,7 @@ class ORCID_Parser:
         Method to parse the author details from ORCID website into a dictionary object, given the orcid of the author
         """
         
-        out_file = "../data/orcid_author_get.xml"
+        out_file = "data/orcid_author_get.xml"
         fout = open(out_file, "w")
         print >> fout, ORCID.orcid_author_get(orcid, kind="xml").encode('utf-8')
         fout.close()
@@ -76,7 +76,7 @@ class ORCID_Parser:
         Method to parse the author works from ORCID website into a dictionary object, given the orcid of the author
         """
         
-        out_file = "../data/orcid_author_works_get.xml"
+        out_file = "data/orcid_author_works_get.xml"
         fout = open(out_file, "w")
         print >> fout, ORCID.orcid_author_works_get(orcid, kind="xml").encode('utf-8')
         fout.close()
@@ -160,7 +160,7 @@ class ORCID_Parser:
         Method to parse the list of matching authors from ORCID website into an array object, given the name of the author
         """
         
-        out_file = "../data/orcid_author_search.xml"
+        out_file = "data/orcid_author_search.xml"
         fout = open(out_file, "w")
         print >> fout, ORCID.orcid_author_search(author_name, kind="xml").encode('utf-8')
         fout.close()
