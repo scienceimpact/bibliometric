@@ -4,13 +4,14 @@ Setup Instructions:
 
 Following is required to start with the setup:
 
-* python
+* python 2.7
 * requests
 * xmltodict
 * pymongo
 * py2neo
-* mongodb server
-* neo4j server
+
+* mongodb database server
+* neo4j database server
 
 Instructions:
 -------------
