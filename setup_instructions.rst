@@ -24,4 +24,7 @@ Instructions:
 * Sample queries are provided in sample_queries.txt
 * Options in main.py are as descibed.
 
-*in case of any error while running the code, recreate mongo db and neo4j db before running the code again*  
+*In case of any error while running the code, recreate mongo db and neo4j db before running the code again*  
+
+*The code actually takes time to execute as it is making constant hits to various servers.*
+*The time to fetch 250 authors is approximately 30 minutes.*
