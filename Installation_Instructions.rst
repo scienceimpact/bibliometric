@@ -5,11 +5,11 @@ Required Software & Tools:
 Following are required to run the project.
 
   * python 2.7
-    * pip
-    * requests
-    * xmltodict
-    * pymongo
-    * py2neo
+  * pip
+  * requests
+  * xmltodict
+  * pymongo
+  * py2neo
   * mongodb database server
   * neo4j database server
 
@@ -118,8 +118,8 @@ Skip to the last instruction in step 8 if you don't want to run the project.)
 9. Refresh the Neo4j browser client page "http://localhost:7474". 
    Under the default settings, 270 Author nodes and 2814 Publication nodes with 'authored' Relationships between them are created.
 
-10.Now all the data is loaded into Neo4j. You can run cypher queries on the neo4j browser instance to test the project.
-   All the test cypher queries are given in the file 'test_queries.docx'
+10. Now all the data is loaded into Neo4j. You can run cypher queries on the neo4j browser instance to test the project.
+    All the test cypher queries are given in the file 'test_queries.docx'
 
 Change project settings
 =======================
