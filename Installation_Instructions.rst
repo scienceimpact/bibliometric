@@ -135,5 +135,4 @@ Change project settings
    
 4. More options to run the project are provided in 'main/main.py' file. The details are as described in the file.
 
-Note: If you want to re-run the project, then make sure to delete the mongodb and neo4j databases. They are created while running the project.
-      Details on deleting mongodb and neo4j databases are provided in the above section under step 8.
+Note: If you want to re-run the project, then make sure to delete the mongodb and neo4j databases. They are created while running the project. Details on deleting mongodb and neo4j databases are provided in the above section under step 8.
