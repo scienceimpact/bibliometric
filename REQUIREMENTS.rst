@@ -1,11 +1,11 @@
 Requirements
 ============
   * python 2.7
-    * pip
-    * requests
-    * xmltodict
-    * pymongo
-    * py2neo
+  * pip
+  * requests
+  * xmltodict
+  * pymongo
+  * py2neo
   * mongodb database server
   * neo4j database server
 
