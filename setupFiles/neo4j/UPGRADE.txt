@@ -19,9 +19,9 @@ Table of Contents
     Please refer to ???.
 
 A database created by an older version of Neo4j will be upgraded when opened by 
-Neo4j 2.2.0-M02 during startup. Whilst this upgrade will occur automatically 
-for minor changes, larger migrations require explicit configuration before 
-Neo4j will start.
+Neo4j 2.1.6 during startup. Whilst this upgrade will occur automatically for 
+minor changes, larger migrations require explicit configuration before Neo4j 
+will start.
 
 Each Neo4j version supports upgrading from a limited number of previous 
 versions. These upgrades are either automatic, or require explicit 
@@ -29,13 +29,13 @@ configuration to allow them.
 
 In this release of Neo4j, the following upgrades are permitted.
 
-1.9.x --> 2.2.0-M02
+1.9.x --> 2.1.6
     Explicit configuration is required
 
-2.0.x --> 2.2.0-M02
+2.0.x --> 2.1.6
     Explicit configuration is required
 
-2.1.x --> 2.2.0-M02
+2.1.x --> 2.1.6
     Automatically performs any store upgrade
 
 
@@ -56,7 +56,7 @@ In this release of Neo4j, the following upgrades are permitted.
 To perform a normal store upgrade (for minor changes to the database store):
 
    1. Cleanly shut down the older version of Neo4j, if it is running.
-   2. Install Neo4j 2.2.0-M02, and set it up to use the same database store
+   2. Install Neo4j 2.1.6, and set it up to use the same database store
       directory (typically data/graph.db).
    3. NOTE: It is strongly advised to make a copy of the database store
       directory at this time, to use as a backup in case rollback/downgrade is
@@ -75,7 +75,7 @@ To perform an explicit store upgrade (required for significant changes to the
 database store):
 
    1. Cleanly shut down the older version of Neo4j, if it is running.
-   2. Install Neo4j 2.2.0-M02, and set it up to use the same database store
+   2. Install Neo4j 2.1.6, and set it up to use the same database store
       directory (typically data/graph.db).
    3. Set the Neo4j configuration parameter allow_store_upgrade=true in your 
       conf/neo4j.properties file. Neo4j will fail to start without this

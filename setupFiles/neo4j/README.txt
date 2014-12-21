@@ -1,7 +1,7 @@
-Neo4j 2.2.0-M02
+Neo4j 2.1.6
 =======================================
 
-Welcome to Neo4j release 2.2.0-M02, a high-performance graph database.
+Welcome to Neo4j release 2.1.6, a high-performance graph database.
 This is the community distribution of Neo4j, including everything you need to
 start building applications that can model, persist and explore graph-like data.
 
@@ -23,7 +23,7 @@ Here in the installation directory, you'll find:
 Make it go
 ----------
 
-For full instructions, see http://neo4j.com/docs/2.2.0-M02/deployment.html
+For full instructions, see http://neo4j.com/docs/2.1.6/deployment.html
 
 To get started with Neo4j, let's start the server and take a
 look at the web interface ...
@@ -42,8 +42,8 @@ Learn more
 ----------
 
 * Neo4j Home: http://neo4j.com/
-* Getting Started: http://neo4j.com/docs/2.2.0-M02/introduction.html
-* The Neo4j Manual: http://neo4j.com/docs/2.2.0-M02/
+* Getting Started: http://neo4j.com/docs/2.1.6/introduction.html
+* The Neo4j Manual: http://neo4j.com/docs/2.1.6/
 
 License(s)
 ----------
