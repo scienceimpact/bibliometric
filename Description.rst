@@ -3,8 +3,8 @@ Project: Author Name Disambiguation in Bibliographic Data
 
 Team:
 ===== 
-  Siddhardha Raju Mandapati, e-mail: siddhardha.rm@gmail.com, github: siddhardha-m
-  Amritanshu Joshi, e-mail: amritanshujoshi@gmail.com, github: amritanshujoshi
+Siddhardha Raju Mandapati, e-mail: siddhardha.rm@gmail.com, github: siddhardha-m
+Amritanshu Joshi, e-mail: amritanshujoshi@gmail.com, github: amritanshujoshi
 
 Description:
 ============
