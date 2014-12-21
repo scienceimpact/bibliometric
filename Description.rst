@@ -4,6 +4,7 @@ Project: Author Name Disambiguation in Bibliographic Data
 Team:
 ===== 
 Siddhardha Raju Mandapati, e-mail: siddhardha.rm@gmail.com, github: siddhardha-m;
+
 Amritanshu Joshi, e-mail: amritanshujoshi@gmail.com, github: amritanshujoshi
 
 Description:
@@ -14,15 +15,21 @@ Proposed Solution:
 ==================
 
 Part 1: Creation of the author social network graph
+
 1.Retrieve the list of all authors uniquely identifying them by an ID and store in a local mongodb database
 Author ID Sources: OrcID
+
 2.Retrieve a list of publications with their details of authors etc. and store in a local mongodb database
 Publication Data Sources: IEEE
+
 3.Start by picking an author name and retrieving all his publications and all the possible unique IDs for the author.
+
 4.Identify all the co-authors using the publication data. 
+
 5.Use the co-author names in the next iteration to retrieve their publication data. Keep building the data using the co-author relationship, trying to identify the unique ID of each author.
 
 Part 2: Solving the name ambiguity problem
+
 1.Now the problem of specifically identifying an author becomes simply to query the graph data based on his publications or authorship relations as we have tried to uniquely associate each author with unique IDs while building the social network graph.
 
 Technologies Used:
@@ -32,10 +39,13 @@ All the programming is done using Python. The data retrieved from various source
 Artifacts and Outcome:
 ======================
 A neo4j graph database containing Authors and Publications as nodes and authorship as relationships between an Author and a Publication node.
+
 Repository on github.com: https://github.com/scienceimpact/bibliometric with all the code, documentation, install instructions and test queries
 
 Testing and Use:
 ================
 Steps to run the project are given here: https://github.com/scienceimpact/bibliometric/blob/master/Installation_Instructions.rst 
+
 The project can be then tested by running cypher queries on the graph data in Neo4j browser
+
 The test cypher queries and the expected outcome are provided here: https://github.com/scienceimpact/bibliometric/blob/master/test_queries.docx 
