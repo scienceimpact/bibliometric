@@ -26,5 +26,5 @@ sudo apt-get install -y mongodb-org
 
 sudo service mongod start
 
-setupFiles/neo4j-community-2.1.6/bin/neo4j start
+setupFiles/neo4j/bin/neo4j start
 
