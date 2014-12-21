@@ -19,7 +19,7 @@ For general installation instructions for any OS, follow the instructions in  'I
 
 3. Open terminal and "cd" in terminal to the extracted project root folder. (Root folder is where README.rst file of the bibliometric project is present)
 
-4. Run the automated install script in terminal "./install.sh". Enter the sudo root password when it asks. Ignore the clean up errors during installation.
+4. Run the automated install script in terminal "sudo ./install.sh". Enter the sudo root password when it asks.
 
 Instructions to run the project
 ===============================
