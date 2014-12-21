@@ -36,3 +36,6 @@ Note: More detailed instructions are provided in 'Installation_Instructions.rst'
 
 3. To run the project, enter the command "python main/main.py" in terminal.
 
+4. Now all the data is loaded into Neo4j. You can run cypher queries on the neo4j browser instance to test the project.
+   All the test cypher queries are given in the file 'test_queries.docx'
+
