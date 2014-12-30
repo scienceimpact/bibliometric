@@ -13,17 +13,16 @@ Team
 
 Description
 ===========
-::
 
-  The main idea of the project is to solve the high ambiguity of the author names in bibliographic data. In 
-  most of the technical papers and publications, the authors are identified only by their name. 
+The main idea of the project is to solve the high ambiguity of the author names in bibliographic data. In 
+most of the technical papers and publications, the authors are identified only by their name. 
   
-  However, different people can have the same full name. So it is a very difficult task to specifically 
-  identify the correct person when only the name is provided. The problem becomes even more challenging 
-  when the alias names of the authors are provided, as a person can have multiple alias names. 
+However, different people can have the same full name. So it is a very difficult task to specifically 
+identify the correct person when only the name is provided. The problem becomes even more challenging 
+when the alias names of the authors are provided, as a person can have multiple alias names. 
   
-  We plan to remove the name ambiguity by plotting the authors in a social network graph using co-authorship
-  as relations between nodes and then finding the best match of the author of a paper in the graph.
+We plan to remove the name ambiguity by plotting the authors in a social network graph using co-authorship
+as relations between nodes and then finding the best match of the author of a paper in the graph.
 
 Acknowledgement
 =================
