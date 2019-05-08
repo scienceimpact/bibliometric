@@ -10,7 +10,7 @@ identifiers.
 
 ## Description
 
-The main idea of the project is to solve the high ambiguity of the author names
+The idea of the project is to solve the high ambiguity of the author names
 in bibliographic data. In most of the technical papers and publications, the
 authors are identified only by their name.
   
@@ -22,6 +22,7 @@ are provided, as a person can have multiple alias names.
 We plan to remove the name ambiguity by plotting the authors in a social network
 graph using co-authorship as relations between nodes and then finding the best
 match of the author of a paper in the graph.
+
 
 
 ## Requirements
@@ -210,3 +211,149 @@ If you use this project code or data generated based on this program you need to
 
 
 It is **NOT** sufficient to just provide a web link to this source repository. 
+
+
+
+
+Proposed Solution:
+==================
+
+Part 1: Creation of the author social network graph
+
+1. Retrieve the list of all authors uniquely identifying them by an ID and store
+   in a local mongodb database Author ID Sources: OrcID
+
+2. Retrieve a list of publications with their details of authors etc. and store
+   in a local mongodb database Publication Data Sources: IEEE
+
+3. Start by picking an author name and retrieving all his publications and all
+   the possible unique IDs for the author.
+
+4. Identify all the co-authors using the publication data.
+
+5. Use the co-author names in the next iteration to retrieve their publication
+   data. Keep building the data using the co-author relationship, trying to
+   identify the unique ID of each author.
+
+Part 2: Solving the name ambiguity problem
+
+1. Now the problem of specifically identifying an author becomes simply to query
+   the graph data based on his publications or authorship relations as we have
+   tried to uniquely associate each author with unique IDs while building the
+   social network graph.
+
+
+
+## Repository
+ 
+* github.com: https://github.com/scienceimpact/bibliometric 
+
+## Sample Queries
+
+Below are the Cypher queries which can be used to test the project. Run
+these queries in the Neo4j browser.
+
+All the authors have a unique ORCID to uniquely identify that author. We
+can further refine the search using other properties of Author and
+Publication nodes while querying. Few examples are given below.
+
+1.  **Description:** Query to return 400 'authored' relationships
+
+    **Query:** `MATCH (a)-\[:authored\]-\>(b) RETURN a, b LIMIT 400`
+
+    **Screenshot:**
+
+    ![](images/image1.png)
+
+2.  **Description:** Query to return the Author node having name 'Gregor
+    von Laszewski'
+
+    **Query:** *MATCH (a:Author) WHERE has(a.othernames) and
+    any(othername in a.othernames WHERE othername = \"Gregor von
+    Laszewski\") RETURN a*
+
+    **Screenshot:** We can see that there is a single node having name
+    'Gregor von Laszewski'
+
+    ![](images/image2.png)
+
+    ![](images/image3.png)
+
+3.  **Description:** Query to return all the nodes having name 'Gregor'
+
+    **Query:** `MATCH (a:Author) WHERE has(a.othernames) and
+    any(othername in a.othernames WHERE othername = \"Gregor\") RETURN
+    a`
+
+    **Screenshot:** We can see that there are 6 nodes having name
+    'Gregor'
+
+    ![](images/image4.png)
+
+4.  **Description:** Query to return all the nodes having name 'Fox'
+
+    **Query:** `MATCH (a:Author) WHERE has(a.othernames) and
+    any(othername in a.othernames WHERE othername = \"Fox\") RETURN a`
+
+    **Screenshot:** We can see that there are 10 nodes having name 'Fox'
+
+    ![](images/image5.png)
+
+5.  **Description:** Query to return all the nodes having name 's fox',
+    ignoring the case
+
+    **Query:** `MATCH (a:Author) WHERE has(a.othernames) and
+    any(othername in a.othernames WHERE othername =\~ \"(?i)s fox\")
+    RETURN a`
+
+    **Screenshot:** We can see that there are 2 nodes having name 's
+    fox'
+
+    ![](images/image6.png)
+
+6.  **Description:** Query to return all the nodes having name 'fox'
+    ignoring case and who authored a publication in the year 2008
+
+    **Query:** `MATCH (a:Author)-\[r\]-\>(p:Publication {year:
+    \"2008\"}) WHERE has(a.othernames) and any(othername in a.othernames
+    WHERE othername =\~ \"(?i)fox\") RETURN a`
+
+    **Screenshot:** We can see that out of 10 nodes having the name
+    'fox', only one author has a publication in the year 2008
+
+    ![](images/image7.png)
+
+7.  **Description:** Query to find the author named 'fox' ignoring case
+    who authored the publication 'Springtime Fire Weather in Tasmania,
+    Australia: Two Case Studies'
+
+    **Query:** `MATCH (p:Publication)\<-\[r\]-(a:Author) WHERE
+    has(p.title) and p.title = \"Springtime Fire Weather in Tasmania,
+    Australia: Two Case Studies\" and has(a.othernames) and
+    any(othername in a.othernames WHERE othername =\~ \"(?i)fox\")
+    RETURN a, p`
+
+    **Screenshot:** We can see that out of 10 authors having the name
+    'fox', only one author has authored the publication 'Springtime Fire
+    Weather in Tasmania, Australia: Two Case Studies'. Thus we are able
+    to identify the author uniquely as every author has unique orcid.
+
+    ![](images/image8.png)
+
+    ![](images/image9.png)
+
+8.  **Description:** Query to find the author named 'Gregor' who has
+    authored a publication which is also authored by the author named
+    'Fox'
+
+    **Query:** `MATCH
+    (a:Author)-\[r\]-\>(p:Publication)\<-\[s\]-(b:Author) WHERE
+    has(a.othernames) and any(othername in a.othernames WHERE othername
+    = \"Gregor\") and has(b.othernames) and any(othername in
+    b.othernames WHERE othername = \"Fox\") RETURN a`
+
+    **Screenshot:** We can see that out of the 6 authors named 'Gregor',
+    there is only one author with orcid '0000-0001-9558-179X' who has
+    co-authored with an author named 'Fox'
+
+    ![](images/image10.png)
