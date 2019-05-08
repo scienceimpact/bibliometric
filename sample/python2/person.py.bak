@@ -62,7 +62,7 @@ for entry in person:
 
 def find_frequency(entries):
     freqs = Counter(entries)
-    return sorted(list(freqs.items()), key=lambda i: i[1])
+    return sorted(freqs.items(), key=lambda i: i[1])
 
 
 def get_freq_vector(freqs):
@@ -77,8 +77,8 @@ def add_to_plot(entries, label=None):
     
 
 for graph in kind:
-    print(70 * "+")
-    print(find_frequency(data[graph]))
+    print 70 * "+"
+    print find_frequency(data[graph])
     add_to_plot(get_freq_vector(find_frequency(data[graph])), label=graph)
 
 plt.legend()

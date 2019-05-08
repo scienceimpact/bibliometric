@@ -11,32 +11,32 @@ import json
 
 
 def banner(msg):
-    print(70 * "=")
-    print(msg)
-    print(70 * "=")    
+    print 70 * "="
+    print msg
+    print 70 * "="    
 
 
 banner("doi turtle")
-print(DOI.doi_get("10.1109/GCE.2010.5676126", kind="turle"))
+print DOI.doi_get("10.1109/GCE.2010.5676126", kind="turle")
 
 banner("doi bibtex")
-print(DOI.doi_get("10.1109/GCE.2010.5676126"))
+print DOI.doi_get("10.1109/GCE.2010.5676126")
 
 banner("doi json")
 pprint(DOI.doi_get("10.1109/GCE.2010.5676126", kind="json"))
 
 banner("ieee xml")
-print(IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="xml"))
+print IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="xml")
 
 banner("ieee json")
-print(IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="json"))
+print IEEE.ieee_doi_get("10.1109/GCE.2010.5676126", kind="json")
 
 
 banner("orcid xml")
-print(ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="xml"))
+print ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="xml")
 
 banner("orcid json")
-print(json.dumps(ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="json"), indent=2))
+print json.dumps(ORCID.orcid_doi_get("10.1109/GCE.2010.5676126", kind="json"), indent=2)
 
 banner("crossref json")
 pprint(CrossRef.crossref_doi_get("10.1109/GCE.2010.5676126", kind="json"))

@@ -39,7 +39,7 @@ class PublicationLoad:
                             publication['authorsIeee'] = ieee_doi_get_result['authors']
                 publication['authorsSearched'] = 0
                 coll.insert(publication)
-                print('Inserted Publication: ' + publication['doi'])
+                print 'Inserted Publication: ' + publication['doi']
     
     @staticmethod
     def find_unsearched_publication():

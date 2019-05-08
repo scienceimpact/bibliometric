@@ -5,10 +5,10 @@ import dblp
 authors = dblp.search('Gregor von Laszewski')
 
 for author in authors:
-    print(author.name)
+    print author.name
 
 authors = dblp.search('Laszewski')
 
 for author in authors:
-    print(author.name)
+    print author.name
     

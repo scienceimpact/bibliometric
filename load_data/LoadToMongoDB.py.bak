@@ -16,9 +16,9 @@ class LoadToMongoDB:
         if AuthorLoad.find_in_author_search_list(author_name) != 0:
             return 0
         else:
-            print('Authors Count: {0}'.format(AuthorLoad.find_authors_count()))
+            print 'Authors Count: {0}'.format(AuthorLoad.find_authors_count())
             LoadToMongoDB.search_author_name_and_load_to_mongodb(author_name)
-            print('Authors Count: {0}'.format(AuthorLoad.find_authors_count()))
+            print 'Authors Count: {0}'.format(AuthorLoad.find_authors_count())
             
             while AuthorLoad.find_authors_count() < constants['retrieve_authors_upto_count'] and PublicationLoad.find_unsearched_publications_count() > 0:
                 publication = PublicationLoad.find_unsearched_publication()
@@ -26,7 +26,7 @@ class LoadToMongoDB:
                     PublicationLoad.update_publication_as_searched(publication)
                     for author in publication['authors']:
                         LoadToMongoDB.search_author_name_and_load_to_mongodb(author)
-                print('Authors Count: {0}'.format(AuthorLoad.find_authors_count()))
+                print 'Authors Count: {0}'.format(AuthorLoad.find_authors_count())
             return 1
     
     @staticmethod

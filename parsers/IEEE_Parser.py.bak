@@ -11,7 +11,7 @@ class IEEE_Parser:
         
         out_file = "data/ieee_author_search.xml"
         fout = open(out_file, "w")
-        print(IEEE.ieee_author_search(author_name, kind="xml").encode('utf-8'), file=fout)
+        print >> fout, IEEE.ieee_author_search(author_name, kind="xml").encode('utf-8')
         fout.close()
         
         tree = ET.parse(out_file)
@@ -69,7 +69,7 @@ class IEEE_Parser:
         
         out_file = "data/ieee_publication_search.xml"
         fout = open(out_file, "w")
-        print(IEEE.ieee_publication_search(publication_name, kind="xml").encode('utf-8'), file=fout)
+        print >> fout, IEEE.ieee_publication_search(publication_name, kind="xml").encode('utf-8')
         fout.close()
         
         tree = ET.parse(out_file)
@@ -119,7 +119,7 @@ class IEEE_Parser:
         
         out_file = "data/ieee_doi_get.xml"
         fout = open(out_file, "w")
-        print(IEEE.ieee_doi_get(doi_number, kind="xml").encode('utf-8'), file=fout)
+        print >> fout, IEEE.ieee_doi_get(doi_number, kind="xml").encode('utf-8')
         fout.close()
         
         tree = ET.parse(out_file)

@@ -17,4 +17,4 @@ class PublicationLoad:
                     publication_node.properties[key] = publication[key]
             
             graph.create(publication_node)
-            print('Inserted Publication: ' + publication['doi'])
+            print 'Inserted Publication: ' + publication['doi']

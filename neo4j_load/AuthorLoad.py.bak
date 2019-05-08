@@ -24,4 +24,4 @@ class AuthorLoad:
                 author_node.properties["othernames"] = author["othernames"]
             
             graph.create(author_node)
-            print('Inserted Author: ' + author['orcid'])
+            print 'Inserted Author: ' + author['orcid']

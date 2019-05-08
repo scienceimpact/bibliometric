@@ -21,29 +21,29 @@ def start(option):
     elif option == "load_neo4j":
         load_data_to_neo4j()
     else:
-        print('Invalid option given')
+        print 'Invalid option given'
 
 def load_data():
-    print('Started loading data')
+    print 'Started loading data'
     return_value = load_data_to_mongodb()
     if return_value == 1:
         load_data_to_neo4j()
     else:
-        print('Skipped loading data to Neo4j')
-    print('Finished loading data')
+        print 'Skipped loading data to Neo4j'
+    print 'Finished loading data'
 
 def load_data_to_mongodb():
-    print('Started loading data to MongoDB')
+    print 'Started loading data to MongoDB'
     return_value = LoadToMongoDB.load_data_to_mongodb(author_name)
     if return_value == 1:
-        print('Finished loading data to MongoDB')
+        print 'Finished loading data to MongoDB'
     else:
-        print('Error: Skipped loading data to MongoDB. The given starting point author_name "{0}" is already present in the database. Give a different author_name in main.py'.format(author_name))
+        print 'Error: Skipped loading data to MongoDB. The given starting point author_name "{0}" is already present in the database. Give a different author_name in main.py'.format(author_name)
     return return_value
     
 def load_data_to_neo4j():
-    print('Started loading data to Neo4j')
+    print 'Started loading data to Neo4j'
     LoadToNeo4j.load_data_to_neo4j()
-    print('Finished loading data to Neo4j')
+    print 'Finished loading data to Neo4j'
 
 if __name__ == '__main__' : start(OPTION)

@@ -5,18 +5,18 @@ import json
 fout = open("orcid_author_details.txt", "w")
 
 def banner(msg):
-    print >> fout, 70 * "="
-    print >> fout, msg
-    print >> fout, 70 * "=" 
+    print(70 * "=", file=fout)
+    print(msg, file=fout)
+    print(70 * "=", file=fout) 
     
 banner("orcid author details xml")
-print >> fout, author_details("0000-0001-9558-179X", kind="xml").encode('utf-8')
+print(author_details("0000-0001-9558-179X", kind="xml").encode('utf-8'), file=fout)
 
 banner("orcid author details json")
-print >> fout, json.dumps(author_details("0000-0001-9558-179X", kind="json"), indent=2).encode('utf-8')
+print(json.dumps(author_details("0000-0001-9558-179X", kind="json"), indent=2).encode('utf-8'), file=fout)
 
 banner("orcid author works xml")
-print >> fout, author_works("0000-0001-9558-179X", kind="xml").encode('utf-8')
+print(author_works("0000-0001-9558-179X", kind="xml").encode('utf-8'), file=fout)
 
 banner("orcid author works json")
-print >> fout, json.dumps(author_works("0000-0001-9558-179X", kind="json"), indent=2).encode('utf-8')
+print(json.dumps(author_works("0000-0001-9558-179X", kind="json"), indent=2).encode('utf-8'), file=fout)

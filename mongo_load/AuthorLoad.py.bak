@@ -46,7 +46,7 @@ class AuthorLoad:
             if coll.find({'orcid': author['orcid']}).count() == 0:
                 author['worksFound'] = 0
                 coll.insert(author)
-                print('Inserted Author: ' + author['orcid'])
+                print 'Inserted Author: ' + author['orcid']
     
     @staticmethod
     def find_unsearched_author():
