@@ -1,5 +1,5 @@
-from scienceimpact.lookup.orcid_search_author_details_by_orcid import author_details
-from scienceimpact.lookup.orcid_author_works import author_works
+from lookup.orcid_search_author_details_by_orcid import author_details
+from lookup.orcid_author_works import author_works
 import json
 
 fout = open("orcid_author_details.txt", "w")

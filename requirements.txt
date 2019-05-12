@@ -1,0 +1,6 @@
+matplotlib
+requests
+xmltodict
+pymongo
+py2neo
+orcid
